@@ -1,5 +1,12 @@
 package view.body;
 
-public class ContainerBody {
+import javax.swing.JPanel;
+
+public class ContainerBody extends JPanel {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 
 }

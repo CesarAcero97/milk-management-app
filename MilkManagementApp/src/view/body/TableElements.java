@@ -1,5 +1,12 @@
 package view.body;
 
-public class TableElements {
+import javax.swing.JPanel;
+
+public class TableElements extends JPanel {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 
 }

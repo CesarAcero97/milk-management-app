@@ -1,5 +1,12 @@
 package view.header;
 
-public class ToolBar {
+import javax.swing.JPanel;
+
+public class ToolBar extends JPanel {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 
 }

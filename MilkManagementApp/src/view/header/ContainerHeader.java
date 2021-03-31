@@ -1,5 +1,12 @@
 package view.header;
 
-public class ContainerHeader {
+import javax.swing.JPanel;
+
+public class ContainerHeader extends JPanel {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 
 }

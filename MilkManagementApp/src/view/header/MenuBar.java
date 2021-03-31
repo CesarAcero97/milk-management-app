@@ -1,5 +1,12 @@
 package view.header;
 
-public class MenuBar {
+import javax.swing.JPanel;
+
+public class MenuBar extends JPanel {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 
 }
