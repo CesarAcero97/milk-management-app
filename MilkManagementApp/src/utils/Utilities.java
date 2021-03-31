@@ -1,6 +1,13 @@
 package utils;
 
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.Properties;
+
 import model.*;
+import persistence.LanguageHandler;
 
 public class Utilities {
 
@@ -18,6 +25,24 @@ public class Utilities {
 			break;
 		}
 		return type;
+	}
+	
+	// METODOS DE PROPIEDADES PARA CAMBIO DE LENGUAJE
+	public static Properties generateProperties(String pathFile) throws IOException {
+		Properties properties = new Properties();
+		InputStream input = new FileInputStream(pathFile);
+		properties.load( input );
+		return properties;
+	}
+	
+	public static void saveProperties(Properties properties, String pathFile) throws IOException{
+		FileOutputStream output = new FileOutputStream(pathFile);
+		properties.store(output, null);
+		output.close();
+	}
+	
+	public static String generateProperty(String vector) {
+		return LanguageHandler.languageProperties.getProperty(vector);
 	}
 
 }
