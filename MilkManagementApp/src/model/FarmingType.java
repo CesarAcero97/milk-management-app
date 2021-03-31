@@ -7,7 +7,7 @@ public enum FarmingType {
 	
 	String type;
 
-	private FarmingType(String type) {
+	FarmingType(String type) {
 		this.type = type;
 	}
 

@@ -10,13 +10,18 @@ public class ProductionEntry {
 	
 	public ProductionEntry(int year, String town, FarmingType farmingType, int dailyLitersPerCow, int numberOfCows,
 			int dailyLiters) {
-		super();
 		this.year = year;
 		this.town = town;
 		this.farmingType = farmingType;
 		this.dailyLitersPerCow = dailyLitersPerCow;
 		this.numberOfCows = numberOfCows;
 		this.dailyLiters = dailyLiters;
+	}
+
+	public ProductionEntry(int year, String town, FarmingType farmingType) {
+		this.year = year;
+		this.town = town;
+		this.farmingType = farmingType;
 	}
 
 	public int getYear() {
