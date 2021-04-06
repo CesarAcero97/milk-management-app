@@ -1,0 +1,5005 @@
+{ "lista" :
+	[{
+		"a_o": "2016",
+		"municipio": "SORACA",
+		"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+		"produccion_por_vaca_litros_dia": "8",
+		"vacas_para_orde_o": "210",
+		"total_litros_d_a": "1680"
+	}, {
+	"a_o": "2016",
+	"municipio": "CUCAITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "292",
+	"total_litros_d_a": "1752"
+}, {
+	"a_o": "2016",
+	"municipio": "CALDAS",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "800",
+	"total_litros_d_a": "9600"
+}, {
+	"a_o": "2016",
+	"municipio": "PANQUEBA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "17",
+	"vacas_para_orde_o": "20",
+	"total_litros_d_a": "340"
+}, {
+	"a_o": "2016",
+	"municipio": "TOCA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "76",
+	"total_litros_d_a": "304"
+}, {
+	"a_o": "2016",
+	"municipio": "TOCA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "790",
+	"total_litros_d_a": "9480"
+}, {
+	"a_o": "2016",
+	"municipio": "SOGAMOSO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "370",
+	"total_litros_d_a": "2590"
+}, {
+	"a_o": "2016",
+	"municipio": "DUITAMA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "900",
+	"total_litros_d_a": "2700"
+}, {
+	"a_o": "2016",
+	"municipio": "GUAYATA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "165",
+	"total_litros_d_a": "990"
+}, {
+	"a_o": "2016",
+	"municipio": "BRICEÑO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "180",
+	"total_litros_d_a": "720"
+},{
+	"a_o": "2016",
+	"municipio": "MIRAFLORES",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "199",
+	"total_litros_d_a": "1592"
+}, {
+	"a_o": "2016",
+	"municipio": "CIENEGA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "1500",
+	"total_litros_d_a": "22500"
+}, {
+	"a_o": "2016",
+	"municipio": "CERINZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "800",
+	"total_litros_d_a": "6400"
+}, {
+	"a_o": "2016",
+	"municipio": "BELEN",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "11.5",
+	"vacas_para_orde_o": "1500",
+	"total_litros_d_a": "17250"
+}, {
+	"a_o": "2016",
+	"municipio": "COPER",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "120"
+}, {
+	"a_o": "2016",
+	"municipio": "TUTA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1415",
+	"total_litros_d_a": "8490"
+}, {
+	"a_o": "2016",
+	"municipio": "SANTA SOFIA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "800"
+}, {
+	"a_o": "2016",
+	"municipio": "ARCABUCO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "1540",
+	"total_litros_d_a": "10780"
+}, {
+	"a_o": "2016",
+	"municipio": "SATIVASUR",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "14",
+	"vacas_para_orde_o": "45",
+	"total_litros_d_a": "630"
+}, {
+	"a_o": "2016",
+	"municipio": "TURMEQUE",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "400",
+	"total_litros_d_a": "2400"
+}, {
+	"a_o": "2016",
+	"municipio": "SIACHOQUE",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "482",
+	"total_litros_d_a": "2892"
+}, {
+	"a_o": "2016",
+	"municipio": "PAJARITO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "12",
+	"total_litros_d_a": "72"
+}, {
+	"a_o": "2016",
+	"municipio": "FLORESTA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1200",
+	"total_litros_d_a": "7200"
+}, {
+	"a_o": "2016",
+	"municipio": "CHIQUIZA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "150",
+	"total_litros_d_a": "1050"
+}, {
+	"a_o": "2016",
+	"municipio": "COPER",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "300"
+}, {
+	"a_o": "2016",
+	"municipio": "VILLA DE LEYVA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "290",
+	"total_litros_d_a": "1450"
+}, {
+	"a_o": "2016",
+	"municipio": "CUBARA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "144",
+	"total_litros_d_a": "1008"
+}, {
+	"a_o": "2016",
+	"municipio": "COPER",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "800"
+}, {
+	"a_o": "2016",
+	"municipio": "GUATEQUE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "260",
+	"total_litros_d_a": "1300"
+}, {
+	"a_o": "2016",
+	"municipio": "BOAVITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "800"
+}, {
+	"a_o": "2016",
+	"municipio": "CIENEGA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "20",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "4000"
+}, {
+	"a_o": "2016",
+	"municipio": "QUIPAMA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "13",
+	"vacas_para_orde_o": "350",
+	"total_litros_d_a": "4550"
+}, {
+	"a_o": "2016",
+	"municipio": "COMBITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "12000"
+}, {
+	"a_o": "2016",
+	"municipio": "CHIQUINQUIRA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "8550",
+	"total_litros_d_a": "128250"
+}, {
+	"a_o": "2016",
+	"municipio": "AQUITANIA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "4229",
+	"total_litros_d_a": "16916"
+}, {
+	"a_o": "2016",
+	"municipio": "SANTA ROSA DE VITERBO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "1400",
+	"total_litros_d_a": "5600"
+}, {
+	"a_o": "2016",
+	"municipio": "MOTAVITA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "11",
+	"vacas_para_orde_o": "190",
+	"total_litros_d_a": "2090"
+}, {
+	"a_o": "2016",
+	"municipio": "PANQUEBA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "450",
+	"total_litros_d_a": "3600"
+}, {
+	"a_o": "2016",
+	"municipio": "QUIPAMA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "250",
+	"total_litros_d_a": "1500"
+}, {
+	"a_o": "2016",
+	"municipio": "GUACAMAYAS",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "40",
+	"total_litros_d_a": "400"
+}, {
+	"a_o": "2016",
+	"municipio": "PAZ DE RIO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "410",
+	"total_litros_d_a": "1640"
+}, {
+	"a_o": "2016",
+	"municipio": "TIBANA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "600",
+	"total_litros_d_a": "4800"
+},  {
+	"a_o": "2016",
+	"municipio": "ZETAQUIRA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "900",
+	"total_litros_d_a": "4500"
+}, {
+	"a_o": "2016",
+	"municipio": "CHIVATA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "558",
+	"total_litros_d_a": "3906"
+}, {
+	"a_o": "2016",
+	"municipio": "PAEZ",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "3566",
+	"total_litros_d_a": "14264"
+}, {
+	"a_o": "2016",
+	"municipio": "BOYACA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "800",
+	"total_litros_d_a": "4000"
+}, {
+	"a_o": "2016",
+	"municipio": "VENTAQUEMADA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "4000"
+}, {
+	"a_o": "2016",
+	"municipio": "CHIQUIZA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "700",
+	"total_litros_d_a": "3500"
+}, {
+	"a_o": "2016",
+	"municipio": "GARAGOA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "18",
+	"vacas_para_orde_o": "69",
+	"total_litros_d_a": "1242"
+}, {
+	"a_o": "2016",
+	"municipio": "CORRALES",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "205",
+	"total_litros_d_a": "2050"
+}, {
+	"a_o": "2016",
+	"municipio": "TOPAGA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "450",
+	"total_litros_d_a": "3600"
+}, {
+	"a_o": "2016",
+	"municipio": "BUENAVISTA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "600",
+	"total_litros_d_a": "3000"
+}, {
+	"a_o": "2016",
+	"municipio": "GUACAMAYAS",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "165",
+	"total_litros_d_a": "825"
+}, {
+	"a_o": "2016",
+	"municipio": "MUZO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "2",
+	"vacas_para_orde_o": "700",
+	"total_litros_d_a": "1400"
+}, {
+	"a_o": "2016",
+	"municipio": "RAQUIRA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "5000"
+}, {
+	"a_o": "2016",
+	"municipio": "SUTATENZA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "61",
+	"total_litros_d_a": "427"
+}, {
+	"a_o": "2016",
+	"municipio": "GARAGOA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "9",
+	"vacas_para_orde_o": "400",
+	"total_litros_d_a": "3600"
+}, {
+	"a_o": "2016",
+	"municipio": "TENZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "350",
+	"total_litros_d_a": "1400"
+}, {
+	"a_o": "2016",
+	"municipio": "SATIVASUR",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "360",
+	"total_litros_d_a": "2880"
+}, {
+	"a_o": "2016",
+	"municipio": "COVARACHIA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "1200"
+}, {
+	"a_o": "2016",
+	"municipio": "MUZO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "1500"
+}, {
+	"a_o": "2016",
+	"municipio": "VENTAQUEMADA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "3000",
+	"total_litros_d_a": "30000"
+}, {
+	"a_o": "2016",
+	"municipio": "SOCHA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "305",
+	"total_litros_d_a": "2135"
+}, {
+	"a_o": "2016",
+	"municipio": "ARCABUCO",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "20",
+	"vacas_para_orde_o": "480",
+	"total_litros_d_a": "9600"
+}, {
+	"a_o": "2016",
+	"municipio": "PAYA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "2000"
+}, {
+	"a_o": "2016",
+	"municipio": "SOCOTA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "450",
+	"total_litros_d_a": "4500"
+}, {
+	"a_o": "2016",
+	"municipio": "BERBEO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "500"
+}, {
+	"a_o": "2016",
+	"municipio": "SAN MIGUEL DE SEMA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "5000",
+	"total_litros_d_a": "40000"
+}, {
+	"a_o": "2016",
+	"municipio": "SORA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "800",
+	"total_litros_d_a": "9600"
+}, {
+	"a_o": "2016",
+	"municipio": "TIBASOSA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "800",
+	"total_litros_d_a": "12000"
+}, {
+	"a_o": "2016",
+	"municipio": "SAN MIGUEL DE SEMA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "18",
+	"vacas_para_orde_o": "1500",
+	"total_litros_d_a": "27000"
+}, {
+	"a_o": "2016",
+	"municipio": "JERICO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1100",
+	"total_litros_d_a": "6600"
+}, {
+	"a_o": "2016",
+	"municipio": "SOMONDOCO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4.5",
+	"vacas_para_orde_o": "617",
+	"total_litros_d_a": "2776.5"
+}, {
+	"a_o": "2016",
+	"municipio": "CHIQUIZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "130",
+	"total_litros_d_a": "520"
+}, {
+	"a_o": "2016",
+	"municipio": "TINJACA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "845",
+	"total_litros_d_a": "5915"
+}, {
+	"a_o": "2016",
+	"municipio": "SAN EDUARDO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "318",
+	"total_litros_d_a": "954"
+}, {
+	"a_o": "2016",
+	"municipio": "SIACHOQUE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "1540",
+	"total_litros_d_a": "6160"
+}, {
+	"a_o": "2016",
+	"municipio": "TOCA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "1020",
+	"total_litros_d_a": "7140"
+}, {
+	"a_o": "2016",
+	"municipio": "TUTAZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "150",
+	"total_litros_d_a": "1050"
+}, {
+	"a_o": "2016",
+	"municipio": "MIRAFLORES",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "35",
+	"total_litros_d_a": "525"
+}, {
+	"a_o": "2016",
+	"municipio": "RAQUIRA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "650",
+	"total_litros_d_a": "2600"
+}, {
+	"a_o": "2016",
+	"municipio": "COMBITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "3500",
+	"total_litros_d_a": "52500"
+}, {
+	"a_o": "2016",
+	"municipio": "FIRAVITOBA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "22",
+	"vacas_para_orde_o": "800",
+	"total_litros_d_a": "17600"
+}, {
+	"a_o": "2016",
+	"municipio": "CHITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "2000"
+}, {
+	"a_o": "2016",
+	"municipio": "CORRALES",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "22",
+	"vacas_para_orde_o": "55",
+	"total_litros_d_a": "1210"
+}, {
+	"a_o": "2016",
+	"municipio": "PAJARITO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "18",
+	"total_litros_d_a": "126"
+}, {
+	"a_o": "2016",
+	"municipio": "GUICAN",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1950",
+	"total_litros_d_a": "11700"
+}, {
+	"a_o": "2016",
+	"municipio": "CHITARAQUE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "180",
+	"total_litros_d_a": "720"
+}, {
+	"a_o": "2016",
+	"municipio": "CHIVATA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "20",
+	"vacas_para_orde_o": "112",
+	"total_litros_d_a": "2240"
+}, {
+	"a_o": "2016",
+	"municipio": "GAMEZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6.5",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "6500"
+}, {
+	"a_o": "2016",
+	"municipio": "SOTAQUIRA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "1240",
+	"total_litros_d_a": "8680"
+}, {
+	"a_o": "2016",
+	"municipio": "DUITAMA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "14",
+	"vacas_para_orde_o": "2200",
+	"total_litros_d_a": "30800"
+}, {
+	"a_o": "2016",
+	"municipio": "TIBASOSA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "2500"
+}, {
+	"a_o": "2016",
+	"municipio": "BOYACA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "23",
+	"total_litros_d_a": "345"
+}, {
+	"a_o": "2016",
+	"municipio": "OICATA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "1700",
+	"total_litros_d_a": "13600"
+}, {
+	"a_o": "2016",
+	"municipio": "PANQUEBA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "520",
+	"total_litros_d_a": "3640"
+}, {
+	"a_o": "2016",
+	"municipio": "FIRAVITOBA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "18",
+	"vacas_para_orde_o": "750",
+	"total_litros_d_a": "13500"
+}, {
+	"a_o": "2016",
+	"municipio": "SOTAQUIRA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "18",
+	"vacas_para_orde_o": "6620",
+	"total_litros_d_a": "119160"
+}, {
+	"a_o": "2016",
+	"municipio": "CALDAS",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "1400"
+}, {
+	"a_o": "2016",
+	"municipio": "JENESANO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "1870",
+	"total_litros_d_a": "18700"
+}, {
+	"a_o": "2016",
+	"municipio": "SAN JOSE DE PARE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "150",
+	"total_litros_d_a": "600"
+}, {
+	"a_o": "2016",
+	"municipio": "QUIPAMA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "850",
+	"total_litros_d_a": "2550"
+}, {
+	"a_o": "2016",
+	"municipio": "LABRANZAGRANDE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "4000"
+}, {
+	"a_o": "2016",
+	"municipio": "TURMEQUE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "2500"
+}, {
+	"a_o": "2016",
+	"municipio": "SOATA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "90",
+	"total_litros_d_a": "270"
+}, {
+	"a_o": "2016",
+	"municipio": "PAYA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "1000"
+}, {
+	"a_o": "2016",
+	"municipio": "PUERTO BOYACA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "4800",
+	"total_litros_d_a": "19200"
+}, {
+	"a_o": "2016",
+	"municipio": "SANTA MARIA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4.7",
+	"vacas_para_orde_o": "3220",
+	"total_litros_d_a": "15134"
+}, {
+	"a_o": "2016",
+	"municipio": "SORACA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "1020",
+	"total_litros_d_a": "10200"
+}, {
+	"a_o": "2016",
+	"municipio": "MOTAVITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1300",
+	"total_litros_d_a": "7800"
+}, {
+	"a_o": "2016",
+	"municipio": "EL COCUY",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "2500",
+	"total_litros_d_a": "17500"
+}, {
+	"a_o": "2016",
+	"municipio": "PAUNA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "700",
+	"total_litros_d_a": "8400"
+}, {
+	"a_o": "2016",
+	"municipio": "TUNJA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1532",
+	"total_litros_d_a": "9192"
+}, {
+	"a_o": "2016",
+	"municipio": "TINJACA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "97",
+	"total_litros_d_a": "388"
+}, {
+	"a_o": "2016",
+	"municipio": "SANTANA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "170",
+	"total_litros_d_a": "680"
+}, {
+	"a_o": "2016",
+	"municipio": "GUICAN",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "590",
+	"total_litros_d_a": "4130"
+}, {
+	"a_o": "2016",
+	"municipio": "SOATA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "120",
+	"total_litros_d_a": "720"
+}, {
+	"a_o": "2016",
+	"municipio": "MOTAVITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "230",
+	"total_litros_d_a": "920"
+}, {
+	"a_o": "2016",
+	"municipio": "TOGUI",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "50",
+	"total_litros_d_a": "500"
+}, {
+	"a_o": "2016",
+	"municipio": "RAQUIRA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "800",
+	"total_litros_d_a": "12000"
+}, {
+	"a_o": "2016",
+	"municipio": "VIRACACHA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "14",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "2800"
+}, {
+	"a_o": "2016",
+	"municipio": "RONDON",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "1140",
+	"total_litros_d_a": "7980"
+}, {
+	"a_o": "2016",
+	"municipio": "SUTATENZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "127",
+	"total_litros_d_a": "635"
+}, {
+	"a_o": "2016",
+	"municipio": "SUSACON",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "350",
+	"total_litros_d_a": "1400"
+}, {
+	"a_o": "2016",
+	"municipio": "PISBA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "155",
+	"total_litros_d_a": "465"
+}, {
+	"a_o": "2016",
+	"municipio": "SORACA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "220",
+	"total_litros_d_a": "3300"
+}, {
+	"a_o": "2016",
+	"municipio": "LA CAPILLA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "700",
+	"total_litros_d_a": "3500"
+}, {
+	"a_o": "2016",
+	"municipio": "MIRAFLORES",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "3315",
+	"total_litros_d_a": "16575"
+}, {
+	"a_o": "2016",
+	"municipio": "SAMACA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "850",
+	"total_litros_d_a": "5950"
+}, {
+	"a_o": "2016",
+	"municipio": "ZETAQUIRA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "450",
+	"total_litros_d_a": "1800"
+}, {
+	"a_o": "2016",
+	"municipio": "BRICEÑO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "600"
+}, {
+	"a_o": "2016",
+	"municipio": "SACHICA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "12",
+	"total_litros_d_a": "36"
+}, {
+	"a_o": "2016",
+	"municipio": "PAIPA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "3200",
+	"total_litros_d_a": "25600"
+}, {
+	"a_o": "2016",
+	"municipio": "TIBANA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "400",
+	"total_litros_d_a": "2800"
+}, {
+	"a_o": "2016",
+	"municipio": "ARCABUCO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "610",
+	"total_litros_d_a": "6100"
+}, {
+	"a_o": "2016",
+	"municipio": "MONGUI",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "1200",
+	"total_litros_d_a": "4800"
+}, {
+	"a_o": "2016",
+	"municipio": "PUERTO BOYACA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "6000",
+	"total_litros_d_a": "36000"
+}, {
+	"a_o": "2016",
+	"municipio": "GARAGOA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "271",
+	"total_litros_d_a": "3252"
+}, {
+	"a_o": "2016",
+	"municipio": "SOTAQUIRA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "1450",
+	"total_litros_d_a": "10150"
+}, {
+	"a_o": "2016",
+	"municipio": "SANTA ROSA DE VITERBO",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "1400",
+	"total_litros_d_a": "14000"
+}, {
+	"a_o": "2016",
+	"municipio": "SUTAMARCHAN",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "1600",
+	"total_litros_d_a": "12800"
+}, {
+	"a_o": "2016",
+	"municipio": "GACHANTIVA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3.5",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "3500"
+}, {
+	"a_o": "2016",
+	"municipio": "SAN MATEO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "11",
+	"vacas_para_orde_o": "35",
+	"total_litros_d_a": "385"
+}, {
+	"a_o": "2016",
+	"municipio": "TUNUNGUA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "120",
+	"total_litros_d_a": "360"
+}, {
+	"a_o": "2016",
+	"municipio": "PESCA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "13",
+	"vacas_para_orde_o": "600",
+	"total_litros_d_a": "7800"
+}, {
+	"a_o": "2016",
+	"municipio": "MARIPI",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "580",
+	"total_litros_d_a": "2320"
+}, {
+	"a_o": "2016",
+	"municipio": "GACHANTIVA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "4000"
+}, {
+	"a_o": "2016",
+	"municipio": "TUTA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "498",
+	"total_litros_d_a": "7470"
+}, {
+	"a_o": "2016",
+	"municipio": "OTANCHE",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "60",
+	"total_litros_d_a": "600"
+}, {
+	"a_o": "2016",
+	"municipio": "PAUNA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "400",
+	"total_litros_d_a": "3200"
+}, {
+	"a_o": "2016",
+	"municipio": "TOGUI",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "550",
+	"total_litros_d_a": "2750"
+}, {
+	"a_o": "2016",
+	"municipio": "BETEITIVA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "100"
+}, {
+	"a_o": "2016",
+	"municipio": "SOCHA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "450",
+	"total_litros_d_a": "2250"
+}, {
+	"a_o": "2016",
+	"municipio": "CHIVATA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "260",
+	"total_litros_d_a": "1300"
+}, {
+	"a_o": "2016",
+	"municipio": "CHITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "855",
+	"total_litros_d_a": "4275"
+}, {
+	"a_o": "2016",
+	"municipio": "CIENEGA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "12000"
+}, {
+	"a_o": "2016",
+	"municipio": "LA VICTORIA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "130",
+	"total_litros_d_a": "390"
+}, {
+	"a_o": "2016",
+	"municipio": "CORRALES",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "195",
+	"total_litros_d_a": "1560"
+}, {
+	"a_o": "2016",
+	"municipio": "SUSACON",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "650",
+	"total_litros_d_a": "3250"
+}, {
+	"a_o": "2016",
+	"municipio": "SOGAMOSO",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "350",
+	"total_litros_d_a": "5250"
+}, {
+	"a_o": "2016",
+	"municipio": "SAN LUIS DE GACENO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3.5",
+	"vacas_para_orde_o": "8200",
+	"total_litros_d_a": "28700"
+}, {
+	"a_o": "2016",
+	"municipio": "MONGUA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "550",
+	"total_litros_d_a": "3300"
+}, {
+	"a_o": "2016",
+	"municipio": "VIRACACHA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "70",
+	"total_litros_d_a": "350"
+}, {
+	"a_o": "2016",
+	"municipio": "SAN MIGUEL DE SEMA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "700"
+}, {
+	"a_o": "2016",
+	"municipio": "PAIPA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "1740",
+	"total_litros_d_a": "17400"
+}, {
+	"a_o": "2016",
+	"municipio": "LA VICTORIA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3.5",
+	"vacas_para_orde_o": "25",
+	"total_litros_d_a": "87.5"
+}, {
+	"a_o": "2016",
+	"municipio": "PACHAVITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "1500",
+	"total_litros_d_a": "7500"
+}, {
+	"a_o": "2016",
+	"municipio": "DUITAMA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1100",
+	"total_litros_d_a": "6600"
+}, {
+	"a_o": "2016",
+	"municipio": "MACANAL",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "4000"
+}, {
+	"a_o": "2016",
+	"municipio": "IZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "372",
+	"total_litros_d_a": "2604"
+}, {
+	"a_o": "2016",
+	"municipio": "SAN PABLO DE BORBUR",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "220",
+	"total_litros_d_a": "2640"
+}, {
+	"a_o": "2016",
+	"municipio": "TINJACA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "14",
+	"vacas_para_orde_o": "112",
+	"total_litros_d_a": "1568"
+}, {
+	"a_o": "2016",
+	"municipio": "BELEN",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "25",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "25000"
+}, {
+	"a_o": "2016",
+	"municipio": "NOBSA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "780",
+	"total_litros_d_a": "3120"
+}, {
+	"a_o": "2016",
+	"municipio": "PUERTO BOYACA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "11000",
+	"total_litros_d_a": "132000"
+}, {
+	"a_o": "2016",
+	"municipio": "UMBITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "250",
+	"total_litros_d_a": "1500"
+}, {
+	"a_o": "2016",
+	"municipio": "CHIQUINQUIRA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "2300",
+	"total_litros_d_a": "11500"
+}, {
+	"a_o": "2016",
+	"municipio": "MARIPI",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "430",
+	"total_litros_d_a": "2580"
+}, {
+	"a_o": "2016",
+	"municipio": "COMBITA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "20",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "4000"
+}, {
+	"a_o": "2016",
+	"municipio": "CHINAVITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "800"
+}, {
+	"a_o": "2016",
+	"municipio": "GUAYATA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "550",
+	"total_litros_d_a": "3300"
+}, {
+	"a_o": "2016",
+	"municipio": "OICATA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "55",
+	"total_litros_d_a": "660"
+}, {
+	"a_o": "2016",
+	"municipio": "TASCO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "684",
+	"total_litros_d_a": "4104"
+}, {
+	"a_o": "2016",
+	"municipio": "CAMPOHERMOSO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3.5",
+	"vacas_para_orde_o": "1715",
+	"total_litros_d_a": "6002.5"
+}, {
+	"a_o": "2016",
+	"municipio": "TUTAZA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "900",
+	"total_litros_d_a": "7200"
+}, {
+	"a_o": "2016",
+	"municipio": "RONDON",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "450",
+	"total_litros_d_a": "2700"
+}, {
+	"a_o": "2016",
+	"municipio": "VILLA DE LEYVA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "350",
+	"total_litros_d_a": "2100"
+}, {
+	"a_o": "2016",
+	"municipio": "CERINZA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "14",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "7000"
+}, {
+	"a_o": "2016",
+	"municipio": "PAYA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "18",
+	"vacas_para_orde_o": "40",
+	"total_litros_d_a": "720"
+}, {
+	"a_o": "2016",
+	"municipio": "OTANCHE",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "240",
+	"total_litros_d_a": "1200"
+}, {
+	"a_o": "2016",
+	"municipio": "SAMACA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "780",
+	"total_litros_d_a": "7800"
+}, {
+	"a_o": "2016",
+	"municipio": "CHISCAS",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "1600",
+	"total_litros_d_a": "6400"
+}, {
+	"a_o": "2016",
+	"municipio": "UMBITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "1200",
+	"total_litros_d_a": "6000"
+}, {
+	"a_o": "2016",
+	"municipio": "LA UVITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4.5",
+	"vacas_para_orde_o": "650",
+	"total_litros_d_a": "2925"
+}, {
+	"a_o": "2016",
+	"municipio": "ALMEIDA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "510",
+	"total_litros_d_a": "4080"
+}, {
+	"a_o": "2016",
+	"municipio": "VIRACACHA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "3000"
+}, {
+	"a_o": "2016",
+	"municipio": "LA UVITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "600",
+	"total_litros_d_a": "3000"
+}, {
+	"a_o": "2016",
+	"municipio": "BETEITIVA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3.5",
+	"vacas_para_orde_o": "1200",
+	"total_litros_d_a": "4200"
+}, {
+	"a_o": "2016",
+	"municipio": "SOGAMOSO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "907",
+	"total_litros_d_a": "13605"
+}, {
+	"a_o": "2016",
+	"municipio": "MARIPI",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "16",
+	"vacas_para_orde_o": "135",
+	"total_litros_d_a": "2160"
+}, {
+	"a_o": "2016",
+	"municipio": "TIBASOSA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "700",
+	"total_litros_d_a": "4900"
+}, {
+	"a_o": "2016",
+	"municipio": "CERINZA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "120",
+	"total_litros_d_a": "600"
+}, {
+	"a_o": "2016",
+	"municipio": "MONIQUIRA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "3600"
+}, {
+	"a_o": "2016",
+	"municipio": "IZA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "117",
+	"total_litros_d_a": "1404"
+}, {
+	"a_o": "2016",
+	"municipio": "AQUITANIA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "50"
+}, {
+	"a_o": "2016",
+	"municipio": "BOAVITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "400",
+	"total_litros_d_a": "3200"
+}, {
+	"a_o": "2016",
+	"municipio": "MONGUA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "1900",
+	"total_litros_d_a": "13300"
+}, {
+	"a_o": "2016",
+	"municipio": "UMBITA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "14",
+	"vacas_para_orde_o": "19",
+	"total_litros_d_a": "266"
+}, {
+	"a_o": "2016",
+	"municipio": "CUITIVA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "203",
+	"total_litros_d_a": "2436"
+}, {
+	"a_o": "2016",
+	"municipio": "TURMEQUE",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "180",
+	"total_litros_d_a": "2160"
+}, {
+	"a_o": "2016",
+	"municipio": "CALDAS",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "1400",
+	"total_litros_d_a": "14000"
+}, {
+	"a_o": "2016",
+	"municipio": "SUSACON",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "20",
+	"vacas_para_orde_o": "80",
+	"total_litros_d_a": "1600"
+}, {
+	"a_o": "2016",
+	"municipio": "SANTA ROSA DE VITERBO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1300",
+	"total_litros_d_a": "7800"
+}, {
+	"a_o": "2016",
+	"municipio": "TENZA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "40",
+	"total_litros_d_a": "200"
+}, {
+	"a_o": "2016",
+	"municipio": "BUSBANZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "120",
+	"total_litros_d_a": "480"
+}, {
+	"a_o": "2016",
+	"municipio": "SANTA SOFIA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "230",
+	"total_litros_d_a": "1380"
+}, {
+	"a_o": "2016",
+	"municipio": "BUENAVISTA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "9",
+	"vacas_para_orde_o": "16",
+	"total_litros_d_a": "144"
+}, {
+	"a_o": "2016",
+	"municipio": "BRICEÑO",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "280",
+	"total_litros_d_a": "1680"
+}, {
+	"a_o": "2016",
+	"municipio": "SAN PABLO DE BORBUR",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "1300",
+	"total_litros_d_a": "3900"
+}, {
+	"a_o": "2016",
+	"municipio": "SAN MATEO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "450",
+	"total_litros_d_a": "1800"
+}, {
+	"a_o": "2016",
+	"municipio": "GUATEQUE",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "25",
+	"total_litros_d_a": "250"
+}, {
+	"a_o": "2016",
+	"municipio": "BELEN",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "3000",
+	"total_litros_d_a": "15000"
+}, {
+	"a_o": "2016",
+	"municipio": "SOCOTA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "600",
+	"total_litros_d_a": "6000"
+}, {
+	"a_o": "2016",
+	"municipio": "CHIVOR",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "1000"
+}, {
+	"a_o": "2016",
+	"municipio": "FIRAVITOBA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "400",
+	"total_litros_d_a": "6000"
+}, {
+	"a_o": "2016",
+	"municipio": "PISBA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "2",
+	"vacas_para_orde_o": "310",
+	"total_litros_d_a": "620"
+}, {
+	"a_o": "2016",
+	"municipio": "SAN EDUARDO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "783",
+	"total_litros_d_a": "6264"
+}, {
+	"a_o": "2016",
+	"municipio": "PESCA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "950",
+	"total_litros_d_a": "5700"
+}, {
+	"a_o": "2016",
+	"municipio": "VENTAQUEMADA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "17",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "17000"
+}, {
+	"a_o": "2016",
+	"municipio": "SATIVASUR",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "66",
+	"total_litros_d_a": "792"
+}, {
+	"a_o": "2016",
+	"municipio": "CUITIVA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "50",
+	"total_litros_d_a": "750"
+}, {
+	"a_o": "2016",
+	"municipio": "SIACHOQUE",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "280",
+	"total_litros_d_a": "2800"
+}, {
+	"a_o": "2016",
+	"municipio": "OTANCHE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "40",
+	"total_litros_d_a": "120"
+}, {
+	"a_o": "2016",
+	"municipio": "SATIVANORTE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "1800",
+	"total_litros_d_a": "18000"
+}, {
+	"a_o": "2016",
+	"municipio": "PAUNA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "120",
+	"total_litros_d_a": "480"
+}, {
+	"a_o": "2016",
+	"municipio": "OICATA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "19",
+	"vacas_para_orde_o": "1580",
+	"total_litros_d_a": "30020"
+}, {
+	"a_o": "2016",
+	"municipio": "TUTA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "4828",
+	"total_litros_d_a": "28968"
+}, {
+	"a_o": "2016",
+	"municipio": "BUENAVISTA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "480",
+	"total_litros_d_a": "2400"
+}, {
+	"a_o": "2016",
+	"municipio": "BERBEO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "50",
+	"total_litros_d_a": "250"
+}, {
+	"a_o": "2016",
+	"municipio": "CHIVOR",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "50",
+	"total_litros_d_a": "500"
+}, {
+	"a_o": "2016",
+	"municipio": "TUNJA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "620",
+	"total_litros_d_a": "4340"
+}, {
+	"a_o": "2016",
+	"municipio": "NUEVO COLON",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "90",
+	"total_litros_d_a": "540"
+}, {
+	"a_o": "2016",
+	"municipio": "GUACAMAYAS",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "370",
+	"total_litros_d_a": "1110"
+}, {
+	"a_o": "2016",
+	"municipio": "MONIQUIRA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "3400",
+	"total_litros_d_a": "13600"
+}, {
+	"a_o": "2016",
+	"municipio": "EL ESPINO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "800",
+	"total_litros_d_a": "4800"
+}, {
+	"a_o": "2016",
+	"municipio": "CHINAVITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "1609",
+	"total_litros_d_a": "16090"
+}, {
+	"a_o": "2016",
+	"municipio": "GUATEQUE",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "75",
+	"total_litros_d_a": "600"
+}, {
+	"a_o": "2016",
+	"municipio": "PAIPA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "30",
+	"vacas_para_orde_o": "2500",
+	"total_litros_d_a": "75000"
+}, {
+	"a_o": "2016",
+	"municipio": "TOTA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "2300",
+	"total_litros_d_a": "11500"
+}, {
+	"a_o": "2016",
+	"municipio": "MONIQUIRA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "20",
+	"vacas_para_orde_o": "620",
+	"total_litros_d_a": "12400"
+}, {
+	"a_o": "2016",
+	"municipio": "CHIVOR",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "1200"
+}, {
+	"a_o": "2016",
+	"municipio": "BOAVITA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "1000"
+}, {
+	"a_o": "2016",
+	"municipio": "RAMIRIQUI",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "1200",
+	"total_litros_d_a": "6000"
+}, {
+	"a_o": "2016",
+	"municipio": "ALMEIDA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "85",
+	"total_litros_d_a": "680"
+}, {
+	"a_o": "2016",
+	"municipio": "SAN EDUARDO",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "11",
+	"vacas_para_orde_o": "50",
+	"total_litros_d_a": "550"
+}, {
+	"a_o": "2016",
+	"municipio": "IZA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "18",
+	"vacas_para_orde_o": "700",
+	"total_litros_d_a": "12600"
+}, {
+	"a_o": "2016",
+	"municipio": "CUBARA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "150",
+	"total_litros_d_a": "750"
+}, {
+	"a_o": "2016",
+	"municipio": "TIBANA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "50",
+	"total_litros_d_a": "500"
+}, {
+	"a_o": "2016",
+	"municipio": "SAMACA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "150",
+	"total_litros_d_a": "2250"
+}, {
+	"a_o": "2017",
+	"municipio": "ALMEIDA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "110",
+	"total_litros_d_a": "660"
+}, {
+	"a_o": "2017",
+	"municipio": "ALMEIDA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "495",
+	"total_litros_d_a": "1980"
+}, {
+	"a_o": "2017",
+	"municipio": "AQUITANIA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "4229",
+	"total_litros_d_a": "25374"
+}, {
+	"a_o": "2017",
+	"municipio": "ARCABUCO",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "480",
+	"total_litros_d_a": "5760"
+}, {
+	"a_o": "2017",
+	"municipio": "ARCABUCO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "610",
+	"total_litros_d_a": "4880"
+}, {
+	"a_o": "2017",
+	"municipio": "ARCABUCO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "1340",
+	"total_litros_d_a": "13400"
+}, {
+	"a_o": "2017",
+	"municipio": "BELEN",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "1800",
+	"total_litros_d_a": "27000"
+}, {
+	"a_o": "2017",
+	"municipio": "BELEN",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1100",
+	"total_litros_d_a": "6600"
+}, {
+	"a_o": "2017",
+	"municipio": "BELEN",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "3000",
+	"total_litros_d_a": "30000"
+}, {
+	"a_o": "2017",
+	"municipio": "BERBEO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "95",
+	"total_litros_d_a": "380"
+}, {
+	"a_o": "2017",
+	"municipio": "BERBEO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "60",
+	"total_litros_d_a": "300"
+}, {
+	"a_o": "2017",
+	"municipio": "BETEITIVA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "1200",
+	"total_litros_d_a": "4200"
+}, {
+	"a_o": "2017",
+	"municipio": "BOAVITA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "800"
+}, {
+	"a_o": "2017",
+	"municipio": "BOAVITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "280",
+	"total_litros_d_a": "1120"
+}, {
+	"a_o": "2017",
+	"municipio": "BOAVITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "450",
+	"total_litros_d_a": "2700"
+}, {
+	"a_o": "2017",
+	"municipio": "BOYACA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "23",
+	"total_litros_d_a": "230"
+}, {
+	"a_o": "2017",
+	"municipio": "BOYACA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "800",
+	"total_litros_d_a": "4000"
+}, {
+	"a_o": "2017",
+	"municipio": "BRICEÑO",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "280",
+	"total_litros_d_a": "1680"
+}, {
+	"a_o": "2017",
+	"municipio": "BRICEÑO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "180",
+	"total_litros_d_a": "720"
+}, {
+	"a_o": "2017",
+	"municipio": "BRICEÑO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "150",
+	"total_litros_d_a": "450"
+}, {
+	"a_o": "2017",
+	"municipio": "BUENAVISTA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "9",
+	"vacas_para_orde_o": "180",
+	"total_litros_d_a": "1620"
+}, {
+	"a_o": "2017",
+	"municipio": "BUENAVISTA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "550",
+	"total_litros_d_a": "3300"
+}, {
+	"a_o": "2017",
+	"municipio": "BUENAVISTA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "700",
+	"total_litros_d_a": "4900"
+}, {
+	"a_o": "2017",
+	"municipio": "BUSBANZA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"total_litros_d_a": "0"
+}, {
+	"a_o": "2017",
+	"municipio": "BUSBANZA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"total_litros_d_a": "0"
+}, {
+	"a_o": "2017",
+	"municipio": "BUSBANZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "94",
+	"total_litros_d_a": "376"
+}, {
+	"a_o": "2017",
+	"municipio": "CALDAS",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "1600"
+}, {
+	"a_o": "2017",
+	"municipio": "CALDAS",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "900",
+	"total_litros_d_a": "3600"
+}, {
+	"a_o": "2017",
+	"municipio": "CALDAS",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "400",
+	"total_litros_d_a": "1600"
+}, {
+	"a_o": "2017",
+	"municipio": "CAMPOHERMOSO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "1715",
+	"total_litros_d_a": "6860"
+}, {
+	"a_o": "2017",
+	"municipio": "CERINZA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "363",
+	"total_litros_d_a": "4356"
+}, {
+	"a_o": "2017",
+	"municipio": "CERINZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "1452",
+	"total_litros_d_a": "7260"
+}, {
+	"a_o": "2017",
+	"municipio": "CHINAVITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "1687",
+	"total_litros_d_a": "13496"
+}, {
+	"a_o": "2017",
+	"municipio": "CHINAVITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "198",
+	"total_litros_d_a": "1980"
+}, {
+	"a_o": "2017",
+	"municipio": "CHIQUINQUIRA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "8600",
+	"total_litros_d_a": "129000"
+}, {
+	"a_o": "2017",
+	"municipio": "CHIQUINQUIRA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "2500",
+	"total_litros_d_a": "12500"
+}, {
+	"a_o": "2017",
+	"municipio": "CHIQUIZA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "2100"
+}, {
+	"a_o": "2017",
+	"municipio": "CHIQUIZA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "800",
+	"total_litros_d_a": "3200"
+}, {
+	"a_o": "2017",
+	"municipio": "CHIQUIZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "500"
+}, {
+	"a_o": "2017",
+	"municipio": "CHISCAS",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "56",
+	"total_litros_d_a": "336"
+}, {
+	"a_o": "2017",
+	"municipio": "CHISCAS",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "650",
+	"total_litros_d_a": "5200"
+}, {
+	"a_o": "2017",
+	"municipio": "CHITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "855",
+	"total_litros_d_a": "4275"
+}, {
+	"a_o": "2017",
+	"municipio": "CHITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "3000"
+}, {
+	"a_o": "2017",
+	"municipio": "CHITARAQUE",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "600"
+}, {
+	"a_o": "2017",
+	"municipio": "CHIVATA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "85",
+	"total_litros_d_a": "680"
+}, {
+	"a_o": "2017",
+	"municipio": "CHIVATA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "1200"
+}, {
+	"a_o": "2017",
+	"municipio": "CHIVATA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "3000"
+}, {
+	"a_o": "2017",
+	"municipio": "CHIVOR",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "170",
+	"total_litros_d_a": "1020"
+}, {
+	"a_o": "2017",
+	"municipio": "CHIVOR",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "1000"
+}, {
+	"a_o": "2017",
+	"municipio": "CIENEGA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "2400"
+}, {
+	"a_o": "2017",
+	"municipio": "CIENEGA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1350",
+	"total_litros_d_a": "8100"
+}, {
+	"a_o": "2017",
+	"municipio": "CIENEGA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "850",
+	"total_litros_d_a": "8500"
+}, {
+	"a_o": "2017",
+	"municipio": "COMBITA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "2400"
+}, {
+	"a_o": "2017",
+	"municipio": "COMBITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "3500",
+	"total_litros_d_a": "28000"
+}, {
+	"a_o": "2017",
+	"municipio": "COMBITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "10000"
+}, {
+	"a_o": "2017",
+	"municipio": "COPER",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "120",
+	"total_litros_d_a": "960"
+}, {
+	"a_o": "2017",
+	"municipio": "COPER",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "2000"
+}, {
+	"a_o": "2017",
+	"municipio": "COPER",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "900"
+}, {
+	"a_o": "2017",
+	"municipio": "CORRALES",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "40",
+	"total_litros_d_a": "320"
+}, {
+	"a_o": "2017",
+	"municipio": "CORRALES",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "600"
+}, {
+	"a_o": "2017",
+	"municipio": "CORRALES",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "104",
+	"total_litros_d_a": "728"
+}, {
+	"a_o": "2017",
+	"municipio": "COVARACHIA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "450",
+	"total_litros_d_a": "1350"
+}, {
+	"a_o": "2017",
+	"municipio": "COVARACHIA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "2",
+	"vacas_para_orde_o": "150",
+	"total_litros_d_a": "300"
+}, {
+	"a_o": "2017",
+	"municipio": "CUBARA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "1600",
+	"total_litros_d_a": "6400"
+}, {
+	"a_o": "2017",
+	"municipio": "CUBARA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "2000",
+	"total_litros_d_a": "14000"
+}, {
+	"a_o": "2017",
+	"municipio": "CUCAITA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "50",
+	"total_litros_d_a": "400"
+}, {
+	"a_o": "2017",
+	"municipio": "CUCAITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "400",
+	"total_litros_d_a": "1600"
+}, {
+	"a_o": "2017",
+	"municipio": "CUCAITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "600"
+}, {
+	"a_o": "2017",
+	"municipio": "CUITIVA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "50",
+	"total_litros_d_a": "500"
+}, {
+	"a_o": "2017",
+	"municipio": "CUITIVA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "103",
+	"total_litros_d_a": "824"
+}, {
+	"a_o": "2017",
+	"municipio": "DUITAMA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "2400",
+	"total_litros_d_a": "28800"
+}, {
+	"a_o": "2017",
+	"municipio": "DUITAMA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "900",
+	"total_litros_d_a": "2700"
+}, {
+	"a_o": "2017",
+	"municipio": "DUITAMA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "2300",
+	"total_litros_d_a": "13800"
+}, {
+	"a_o": "2017",
+	"municipio": "EL COCUY",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "2500",
+	"total_litros_d_a": "15000"
+}, {
+	"a_o": "2017",
+	"municipio": "EL ESPINO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1050",
+	"total_litros_d_a": "6300"
+}, {
+	"a_o": "2017",
+	"municipio": "FIRAVITOBA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "1230",
+	"total_litros_d_a": "18450"
+}, {
+	"a_o": "2017",
+	"municipio": "FIRAVITOBA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "600",
+	"total_litros_d_a": "4800"
+}, {
+	"a_o": "2017",
+	"municipio": "FIRAVITOBA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "1200"
+}, {
+	"a_o": "2017",
+	"municipio": "FLORESTA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "1300",
+	"total_litros_d_a": "5720"
+}, {
+	"a_o": "2017",
+	"municipio": "GACHANTIVA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "560",
+	"total_litros_d_a": "2240"
+}, {
+	"a_o": "2017",
+	"municipio": "GACHANTIVA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "560",
+	"total_litros_d_a": "1960"
+}, {
+	"a_o": "2017",
+	"municipio": "GAMEZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1250",
+	"total_litros_d_a": "7500"
+}, {
+	"a_o": "2017",
+	"municipio": "GARAGOA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "799",
+	"total_litros_d_a": "5593"
+}, {
+	"a_o": "2017",
+	"municipio": "GARAGOA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "3194",
+	"total_litros_d_a": "15970"
+}, {
+	"a_o": "2017",
+	"municipio": "GUACAMAYAS",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "180",
+	"total_litros_d_a": "900"
+}, {
+	"a_o": "2017",
+	"municipio": "GUACAMAYAS",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "400",
+	"total_litros_d_a": "1200"
+}, {
+	"a_o": "2017",
+	"municipio": "GUATEQUE",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "30",
+	"total_litros_d_a": "240"
+}, {
+	"a_o": "2017",
+	"municipio": "GUATEQUE",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "70",
+	"total_litros_d_a": "350"
+}, {
+	"a_o": "2017",
+	"municipio": "GUATEQUE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "260",
+	"total_litros_d_a": "1560"
+}, {
+	"a_o": "2017",
+	"municipio": "GUAYATA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "565",
+	"total_litros_d_a": "2825"
+}, {
+	"a_o": "2017",
+	"municipio": "GUAYATA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "170",
+	"total_litros_d_a": "1020"
+}, {
+	"a_o": "2017",
+	"municipio": "GUICAN",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "184",
+	"total_litros_d_a": "1472"
+}, {
+	"a_o": "2017",
+	"municipio": "GUICAN",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "681",
+	"total_litros_d_a": "3405"
+}, {
+	"a_o": "2017",
+	"municipio": "GUICAN",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "621",
+	"total_litros_d_a": "3726"
+}, {
+	"a_o": "2017",
+	"municipio": "IZA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "750",
+	"total_litros_d_a": "11250"
+}, {
+	"a_o": "2017",
+	"municipio": "IZA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "110",
+	"total_litros_d_a": "1100"
+}, {
+	"a_o": "2017",
+	"municipio": "IZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "350",
+	"total_litros_d_a": "2800"
+}, {
+	"a_o": "2017",
+	"municipio": "JENESANO",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "262",
+	"total_litros_d_a": "2620"
+}, {
+	"a_o": "2017",
+	"municipio": "JENESANO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "262",
+	"total_litros_d_a": "1572"
+}, {
+	"a_o": "2017",
+	"municipio": "JENESANO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "1050",
+	"total_litros_d_a": "8400"
+}, {
+	"a_o": "2017",
+	"municipio": "JERICO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "400",
+	"total_litros_d_a": "2000"
+}, {
+	"a_o": "2017",
+	"municipio": "JERICO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "600",
+	"total_litros_d_a": "3600"
+}, {
+	"a_o": "2017",
+	"municipio": "LA CAPILLA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "750",
+	"total_litros_d_a": "3750"
+}, {
+	"a_o": "2017",
+	"municipio": "LA UVITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "730",
+	"total_litros_d_a": "5110"
+}, {
+	"a_o": "2017",
+	"municipio": "LA UVITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "1850",
+	"total_litros_d_a": "14800"
+}, {
+	"a_o": "2017",
+	"municipio": "LA VICTORIA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "170",
+	"total_litros_d_a": "510"
+}, {
+	"a_o": "2017",
+	"municipio": "LA VICTORIA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "30",
+	"total_litros_d_a": "90"
+}, {
+	"a_o": "2017",
+	"municipio": "LABRANZAGRANDE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "1100",
+	"total_litros_d_a": "5500"
+}, {
+	"a_o": "2017",
+	"municipio": "MACANAL",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "2843",
+	"total_litros_d_a": "11372"
+}, {
+	"a_o": "2017",
+	"municipio": "MARIPI",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "180",
+	"total_litros_d_a": "1800"
+}, {
+	"a_o": "2017",
+	"municipio": "MARIPI",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "550",
+	"total_litros_d_a": "2200"
+}, {
+	"a_o": "2017",
+	"municipio": "MARIPI",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "680",
+	"total_litros_d_a": "4760"
+}, {
+	"a_o": "2017",
+	"municipio": "MIRAFLORES",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "50",
+	"total_litros_d_a": "500"
+}, {
+	"a_o": "2017",
+	"municipio": "MIRAFLORES",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "2800",
+	"total_litros_d_a": "11200"
+}, {
+	"a_o": "2017",
+	"municipio": "MIRAFLORES",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1468",
+	"total_litros_d_a": "8808"
+}, {
+	"a_o": "2017",
+	"municipio": "MONGUA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "450",
+	"total_litros_d_a": "2700"
+}, {
+	"a_o": "2017",
+	"municipio": "MONGUA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "640",
+	"total_litros_d_a": "4480"
+}, {
+	"a_o": "2017",
+	"municipio": "MONGUI",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "1400",
+	"total_litros_d_a": "14000"
+}, {
+	"a_o": "2017",
+	"municipio": "MONIQUIRA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "620",
+	"total_litros_d_a": "7440"
+}, {
+	"a_o": "2017",
+	"municipio": "MONIQUIRA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "3000",
+	"total_litros_d_a": "12000"
+}, {
+	"a_o": "2017",
+	"municipio": "MONIQUIRA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "3000"
+}, {
+	"a_o": "2017",
+	"municipio": "MOTAVITA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "2000"
+}, {
+	"a_o": "2017",
+	"municipio": "MOTAVITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "250",
+	"total_litros_d_a": "1125"
+}, {
+	"a_o": "2017",
+	"municipio": "MOTAVITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "1350",
+	"total_litros_d_a": "9450"
+}, {
+	"a_o": "2017",
+	"municipio": "MUZO",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "400",
+	"total_litros_d_a": "4000"
+}, {
+	"a_o": "2017",
+	"municipio": "MUZO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "750",
+	"total_litros_d_a": "3750"
+}, {
+	"a_o": "2017",
+	"municipio": "MUZO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "904",
+	"total_litros_d_a": "6328"
+}, {
+	"a_o": "2017",
+	"municipio": "NOBSA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "820",
+	"total_litros_d_a": "3280"
+}, {
+	"a_o": "2017",
+	"municipio": "NUEVO COLON",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "120",
+	"total_litros_d_a": "720"
+}, {
+	"a_o": "2017",
+	"municipio": "OICATA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "1250",
+	"total_litros_d_a": "15000"
+}, {
+	"a_o": "2017",
+	"municipio": "OICATA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1400",
+	"total_litros_d_a": "8400"
+}, {
+	"a_o": "2017",
+	"municipio": "OICATA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "75",
+	"total_litros_d_a": "525"
+}, {
+	"a_o": "2017",
+	"municipio": "OTANCHE",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "30",
+	"total_litros_d_a": "300"
+}, {
+	"a_o": "2017",
+	"municipio": "OTANCHE",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "1200"
+}, {
+	"a_o": "2017",
+	"municipio": "OTANCHE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "2000",
+	"total_litros_d_a": "16000"
+}, {
+	"a_o": "2017",
+	"municipio": "PACHAVITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "1400"
+}, {
+	"a_o": "2017",
+	"municipio": "PACHAVITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "1150",
+	"total_litros_d_a": "5750"
+}, {
+	"a_o": "2017",
+	"municipio": "PAEZ",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "3450",
+	"total_litros_d_a": "13800"
+}, {
+	"a_o": "2017",
+	"municipio": "PAIPA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "18",
+	"vacas_para_orde_o": "2500",
+	"total_litros_d_a": "45000"
+}, {
+	"a_o": "2017",
+	"municipio": "PAIPA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "1740",
+	"total_litros_d_a": "13920"
+}, {
+	"a_o": "2017",
+	"municipio": "PAIPA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "3200",
+	"total_litros_d_a": "38400"
+}, {
+	"a_o": "2017",
+	"municipio": "PAJARITO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "120",
+	"total_litros_d_a": "960"
+}, {
+	"a_o": "2017",
+	"municipio": "PAJARITO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "180",
+	"total_litros_d_a": "1260"
+}, {
+	"a_o": "2017",
+	"municipio": "PANQUEBA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "1000"
+}, {
+	"a_o": "2017",
+	"municipio": "PANQUEBA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "420",
+	"total_litros_d_a": "2940"
+}, {
+	"a_o": "2017",
+	"municipio": "PANQUEBA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "350",
+	"total_litros_d_a": "2800"
+}, {
+	"a_o": "2017",
+	"municipio": "PAUNA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "720",
+	"total_litros_d_a": "7200"
+}, {
+	"a_o": "2017",
+	"municipio": "PAUNA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "430",
+	"total_litros_d_a": "3440"
+}, {
+	"a_o": "2017",
+	"municipio": "PAUNA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "1450",
+	"total_litros_d_a": "5800"
+}, {
+	"a_o": "2017",
+	"municipio": "PAYA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "20",
+	"total_litros_d_a": "240"
+}, {
+	"a_o": "2017",
+	"municipio": "PAYA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "2000"
+}, {
+	"a_o": "2017",
+	"municipio": "PAYA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "800"
+}, {
+	"a_o": "2017",
+	"municipio": "PAZ DE RIO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "400",
+	"total_litros_d_a": "2400"
+}, {
+	"a_o": "2017",
+	"municipio": "PESCA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "2400",
+	"total_litros_d_a": "28800"
+}, {
+	"a_o": "2017",
+	"municipio": "PESCA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "1500",
+	"total_litros_d_a": "7500"
+}, {
+	"a_o": "2017",
+	"municipio": "PESCA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "9",
+	"vacas_para_orde_o": "1500",
+	"total_litros_d_a": "13500"
+}, {
+	"a_o": "2017",
+	"municipio": "PISBA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "157",
+	"total_litros_d_a": "471"
+}, {
+	"a_o": "2017",
+	"municipio": "PISBA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "2",
+	"vacas_para_orde_o": "315",
+	"total_litros_d_a": "630"
+}, {
+	"a_o": "2017",
+	"municipio": "PUERTO BOYACA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "5000",
+	"total_litros_d_a": "60000"
+}, {
+	"a_o": "2017",
+	"municipio": "PUERTO BOYACA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "18000",
+	"total_litros_d_a": "54000"
+}, {
+	"a_o": "2017",
+	"municipio": "PUERTO BOYACA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "22000",
+	"total_litros_d_a": "77000"
+}, {
+	"a_o": "2017",
+	"municipio": "QUIPAMA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "1000"
+}, {
+	"a_o": "2017",
+	"municipio": "QUIPAMA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "924",
+	"total_litros_d_a": "6468"
+}, {
+	"a_o": "2017",
+	"municipio": "RAMIRIQUI",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "1600"
+}, {
+	"a_o": "2017",
+	"municipio": "RAMIRIQUI",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "2000",
+	"total_litros_d_a": "20000"
+}, {
+	"a_o": "2017",
+	"municipio": "RAQUIRA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "3000"
+}, {
+	"a_o": "2017",
+	"municipio": "RAQUIRA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "380",
+	"total_litros_d_a": "1520"
+}, {
+	"a_o": "2017",
+	"municipio": "RAQUIRA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "650",
+	"total_litros_d_a": "3250"
+}, {
+	"a_o": "2017",
+	"municipio": "RONDON",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "1460",
+	"total_litros_d_a": "10220"
+}, {
+	"a_o": "2017",
+	"municipio": "RONDON",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "460",
+	"total_litros_d_a": "2760"
+}, {
+	"a_o": "2017",
+	"municipio": "SABOYA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "1400",
+	"total_litros_d_a": "21000"
+}, {
+	"a_o": "2017",
+	"municipio": "SABOYA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1200",
+	"total_litros_d_a": "7200"
+}, {
+	"a_o": "2017",
+	"municipio": "SABOYA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "6953",
+	"total_litros_d_a": "69530"
+}, {
+	"a_o": "2017",
+	"municipio": "SACHICA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "28",
+	"total_litros_d_a": "112"
+}, {
+	"a_o": "2017",
+	"municipio": "SAMACA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "14",
+	"vacas_para_orde_o": "320",
+	"total_litros_d_a": "4480"
+}, {
+	"a_o": "2017",
+	"municipio": "SAMACA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "780",
+	"total_litros_d_a": "5460"
+}, {
+	"a_o": "2017",
+	"municipio": "SAMACA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "1525",
+	"total_litros_d_a": "15250"
+}, {
+	"a_o": "2017",
+	"municipio": "SAN EDUARDO",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "20",
+	"total_litros_d_a": "200"
+}, {
+	"a_o": "2017",
+	"municipio": "SAN EDUARDO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "60",
+	"total_litros_d_a": "360"
+}, {
+	"a_o": "2017",
+	"municipio": "SAN EDUARDO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "780",
+	"total_litros_d_a": "6240"
+}, {
+	"a_o": "2017",
+	"municipio": "SAN JOSE DE PARE",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "40",
+	"total_litros_d_a": "240"
+}, {
+	"a_o": "2017",
+	"municipio": "SAN JOSE DE PARE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "120",
+	"total_litros_d_a": "960"
+}, {
+	"a_o": "2017",
+	"municipio": "SAN LUIS DE GACENO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "7250",
+	"total_litros_d_a": "25375"
+}, {
+	"a_o": "2017",
+	"municipio": "SAN MATEO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "45",
+	"total_litros_d_a": "158"
+}, {
+	"a_o": "2017",
+	"municipio": "SAN MATEO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "9",
+	"vacas_para_orde_o": "450",
+	"total_litros_d_a": "3825"
+}, {
+	"a_o": "2017",
+	"municipio": "SAN MIGUEL DE SEMA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "18",
+	"vacas_para_orde_o": "4500",
+	"total_litros_d_a": "81000"
+}, {
+	"a_o": "2017",
+	"municipio": "SAN MIGUEL DE SEMA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "3000",
+	"total_litros_d_a": "24000"
+}, {
+	"a_o": "2017",
+	"municipio": "SAN MIGUEL DE SEMA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "1200"
+}, {
+	"a_o": "2017",
+	"municipio": "SAN PABLO DE BORBUR",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "350",
+	"total_litros_d_a": "1050"
+}, {
+	"a_o": "2017",
+	"municipio": "SAN PABLO DE BORBUR",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "1800",
+	"total_litros_d_a": "14400"
+}, {
+	"a_o": "2017",
+	"municipio": "SANTA MARIA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "3190",
+	"total_litros_d_a": "12760"
+}, {
+	"a_o": "2017",
+	"municipio": "SANTA ROSA DE VITERBO",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "1274",
+	"total_litros_d_a": "12740"
+}, {
+	"a_o": "2017",
+	"municipio": "SANTA ROSA DE VITERBO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "1374",
+	"total_litros_d_a": "5496"
+}, {
+	"a_o": "2017",
+	"municipio": "SANTA ROSA DE VITERBO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1664",
+	"total_litros_d_a": "9984"
+}, {
+	"a_o": "2017",
+	"municipio": "SANTA SOFIA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "280",
+	"total_litros_d_a": "1960"
+}, {
+	"a_o": "2017",
+	"municipio": "SANTA SOFIA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "350",
+	"total_litros_d_a": "1750"
+}, {
+	"a_o": "2017",
+	"municipio": "SANTANA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "86",
+	"total_litros_d_a": "344"
+}, {
+	"a_o": "2017",
+	"municipio": "SATIVANORTE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "1350",
+	"total_litros_d_a": "10800"
+}, {
+	"a_o": "2017",
+	"municipio": "SATIVASUR",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "9",
+	"vacas_para_orde_o": "40",
+	"total_litros_d_a": "360"
+}, {
+	"a_o": "2017",
+	"municipio": "SATIVASUR",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "151",
+	"total_litros_d_a": "755"
+}, {
+	"a_o": "2017",
+	"municipio": "SATIVASUR",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "324",
+	"total_litros_d_a": "2268"
+}, {
+	"a_o": "2017",
+	"municipio": "SIACHOQUE",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "400",
+	"total_litros_d_a": "4800"
+}, {
+	"a_o": "2017",
+	"municipio": "SIACHOQUE",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "1500"
+}, {
+	"a_o": "2017",
+	"municipio": "SIACHOQUE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "3000"
+}, {
+	"a_o": "2017",
+	"municipio": "SOATA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "120",
+	"total_litros_d_a": "360"
+}, {
+	"a_o": "2017",
+	"municipio": "SOATA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "90",
+	"total_litros_d_a": "450"
+}, {
+	"a_o": "2017",
+	"municipio": "SOCHA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "80",
+	"total_litros_d_a": "800"
+}, {
+	"a_o": "2017",
+	"municipio": "SOCHA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "400",
+	"total_litros_d_a": "2000"
+}, {
+	"a_o": "2017",
+	"municipio": "SOCHA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "125",
+	"total_litros_d_a": "875"
+}, {
+	"a_o": "2017",
+	"municipio": "SOCOTA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "550",
+	"total_litros_d_a": "4400"
+}, {
+	"a_o": "2017",
+	"municipio": "SOCOTA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "110",
+	"total_litros_d_a": "1100"
+}, {
+	"a_o": "2017",
+	"municipio": "SOGAMOSO",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "650",
+	"total_litros_d_a": "7800"
+}, {
+	"a_o": "2017",
+	"municipio": "SOGAMOSO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "4000"
+}, {
+	"a_o": "2017",
+	"municipio": "SOGAMOSO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "1500",
+	"total_litros_d_a": "7500"
+}, {
+	"a_o": "2017",
+	"municipio": "SOMONDOCO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "753",
+	"total_litros_d_a": "3389"
+}, {
+	"a_o": "2017",
+	"municipio": "SORA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "750",
+	"total_litros_d_a": "6000"
+}, {
+	"a_o": "2017",
+	"municipio": "SORACA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "600",
+	"total_litros_d_a": "7200"
+}, {
+	"a_o": "2017",
+	"municipio": "SORACA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "1300",
+	"total_litros_d_a": "9100"
+}, {
+	"a_o": "2017",
+	"municipio": "SORACA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "800",
+	"total_litros_d_a": "8000"
+}, {
+	"a_o": "2017",
+	"municipio": "SOTAQUIRA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "16",
+	"vacas_para_orde_o": "4500",
+	"total_litros_d_a": "72000"
+}, {
+	"a_o": "2017",
+	"municipio": "SOTAQUIRA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "1120",
+	"total_litros_d_a": "7840"
+}, {
+	"a_o": "2017",
+	"municipio": "SOTAQUIRA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "1230",
+	"total_litros_d_a": "12300"
+}, {
+	"a_o": "2017",
+	"municipio": "SUSACON",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "92",
+	"total_litros_d_a": "920"
+}, {
+	"a_o": "2017",
+	"municipio": "SUSACON",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "410",
+	"total_litros_d_a": "2870"
+}, {
+	"a_o": "2017",
+	"municipio": "SUSACON",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "710",
+	"total_litros_d_a": "2840"
+}, {
+	"a_o": "2017",
+	"municipio": "SUTAMARCHAN",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "802",
+	"total_litros_d_a": "4812"
+}, {
+	"a_o": "2017",
+	"municipio": "SUTATENZA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "75",
+	"total_litros_d_a": "525"
+}, {
+	"a_o": "2017",
+	"municipio": "SUTATENZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "132",
+	"total_litros_d_a": "660"
+}, {
+	"a_o": "2017",
+	"municipio": "TASCO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1100",
+	"total_litros_d_a": "6600"
+}, {
+	"a_o": "2017",
+	"municipio": "TENZA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "40",
+	"total_litros_d_a": "120"
+}, {
+	"a_o": "2017",
+	"municipio": "TENZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "350",
+	"total_litros_d_a": "1400"
+}, {
+	"a_o": "2017",
+	"municipio": "TIBANA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "740",
+	"total_litros_d_a": "4440"
+}, {
+	"a_o": "2017",
+	"municipio": "TIBANA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "550",
+	"total_litros_d_a": "4400"
+}, {
+	"a_o": "2017",
+	"municipio": "TIBASOSA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "40",
+	"total_litros_d_a": "600"
+}, {
+	"a_o": "2017",
+	"municipio": "TIBASOSA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "6000"
+}, {
+	"a_o": "2017",
+	"municipio": "TIBASOSA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "830",
+	"total_litros_d_a": "8300"
+}, {
+	"a_o": "2017",
+	"municipio": "TINJACA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "112",
+	"total_litros_d_a": "1120"
+}, {
+	"a_o": "2017",
+	"municipio": "TINJACA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "98",
+	"total_litros_d_a": "392"
+}, {
+	"a_o": "2017",
+	"municipio": "TINJACA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "515",
+	"total_litros_d_a": "3605"
+}, {
+	"a_o": "2017",
+	"municipio": "TIPACOQUE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "800"
+}, {
+	"a_o": "2017",
+	"municipio": "TOCA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "14",
+	"vacas_para_orde_o": "800",
+	"total_litros_d_a": "11200"
+}, {
+	"a_o": "2017",
+	"municipio": "TOCA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "1500",
+	"total_litros_d_a": "9000"
+}, {
+	"a_o": "2017",
+	"municipio": "TOCA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "2000",
+	"total_litros_d_a": "16000"
+}, {
+	"a_o": "2017",
+	"municipio": "TOGUI",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "35",
+	"total_litros_d_a": "280"
+}, {
+	"a_o": "2017",
+	"municipio": "TOGUI",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "800"
+}, {
+	"a_o": "2017",
+	"municipio": "TOGUI",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "665",
+	"total_litros_d_a": "3325"
+}, {
+	"a_o": "2017",
+	"municipio": "TOPAGA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "400",
+	"total_litros_d_a": "2800"
+}, {
+	"a_o": "2017",
+	"municipio": "TOTA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "800"
+}, {
+	"a_o": "2017",
+	"municipio": "TOTA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "1855",
+	"total_litros_d_a": "9275"
+}, {
+	"a_o": "2017",
+	"municipio": "TUNJA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "625",
+	"total_litros_d_a": "3750"
+}, {
+	"a_o": "2017",
+	"municipio": "TUNJA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "1536",
+	"total_litros_d_a": "10752"
+}, {
+	"a_o": "2017",
+	"municipio": "TUNUNGUA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3",
+	"vacas_para_orde_o": "90",
+	"total_litros_d_a": "270"
+}, {
+	"a_o": "2017",
+	"municipio": "TURMEQUE",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "350",
+	"total_litros_d_a": "3500"
+}, {
+	"a_o": "2017",
+	"municipio": "TURMEQUE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "2620",
+	"total_litros_d_a": "15720"
+}, {
+	"a_o": "2017",
+	"municipio": "TUTA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15",
+	"vacas_para_orde_o": "510",
+	"total_litros_d_a": "7650"
+}, {
+	"a_o": "2017",
+	"municipio": "TUTA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "1600",
+	"total_litros_d_a": "12800"
+}, {
+	"a_o": "2017",
+	"municipio": "TUTA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "4828",
+	"total_litros_d_a": "48280"
+}, {
+	"a_o": "2017",
+	"municipio": "TUTAZA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "7000"
+}, {
+	"a_o": "2017",
+	"municipio": "TUTAZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "1800",
+	"total_litros_d_a": "14400"
+}, {
+	"a_o": "2017",
+	"municipio": "UMBITA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12",
+	"vacas_para_orde_o": "21",
+	"total_litros_d_a": "252"
+}, {
+	"a_o": "2017",
+	"municipio": "UMBITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "800"
+}, {
+	"a_o": "2017",
+	"municipio": "UMBITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "700",
+	"total_litros_d_a": "4200"
+}, {
+	"a_o": "2017",
+	"municipio": "VENTAQUEMADA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "1720",
+	"total_litros_d_a": "17200"
+}, {
+	"a_o": "2017",
+	"municipio": "VENTAQUEMADA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8",
+	"vacas_para_orde_o": "136",
+	"total_litros_d_a": "1088"
+}, {
+	"a_o": "2017",
+	"municipio": "VILLA DE LEYVA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "800",
+	"total_litros_d_a": "4000"
+}, {
+	"a_o": "2017",
+	"municipio": "VILLA DE LEYVA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "1200"
+}, {
+	"a_o": "2017",
+	"municipio": "VIRACACHA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "2000",
+	"total_litros_d_a": "12000"
+}, {
+	"a_o": "2017",
+	"municipio": "VIRACACHA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "70",
+	"total_litros_d_a": "350"
+}, {
+	"a_o": "2017",
+	"municipio": "ZETAQUIRA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "1000"
+}, {
+	"a_o": "2017",
+	"municipio": "ZETAQUIRA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "5000"
+}, {
+	"a_o": "2017",
+	"municipio": "ZETAQUIRA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6",
+	"vacas_para_orde_o": "3000",
+	"total_litros_d_a": "18000"
+}, {
+	"a_o": "2018",
+	"municipio": "ALMEIDA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "70",
+	"total_litros_d_a": "490"
+}, {
+	"a_o": "2018",
+	"municipio": "ALMEIDA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "380",
+	"total_litros_d_a": "2280"
+}, {
+	"a_o": "2018",
+	"municipio": "AQUITANIA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "9.0",
+	"vacas_para_orde_o": "4229",
+	"total_litros_d_a": "38061"
+}, {
+	"a_o": "2018",
+	"municipio": "ARCABUCO",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15.0",
+	"vacas_para_orde_o": "480",
+	"total_litros_d_a": "7200"
+}, {
+	"a_o": "2018",
+	"municipio": "ARCABUCO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "610",
+	"total_litros_d_a": "6100"
+}, {
+	"a_o": "2018",
+	"municipio": "ARCABUCO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "1540",
+	"total_litros_d_a": "10780"
+}, {
+	"a_o": "2018",
+	"municipio": "BELEN",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15.0",
+	"vacas_para_orde_o": "820",
+	"total_litros_d_a": "12300"
+}, {
+	"a_o": "2018",
+	"municipio": "BELEN",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "1130",
+	"total_litros_d_a": "6780"
+}, {
+	"a_o": "2018",
+	"municipio": "BELEN",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "2800",
+	"total_litros_d_a": "22400"
+}, {
+	"a_o": "2018",
+	"municipio": "BERBEO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "600"
+}, {
+	"a_o": "2018",
+	"municipio": "BERBEO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "65",
+	"total_litros_d_a": "390"
+}, {
+	"a_o": "2018",
+	"municipio": "BETEITIVA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3.5",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "3500"
+}, {
+	"a_o": "2018",
+	"municipio": "BOAVITA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "91",
+	"total_litros_d_a": "910"
+}, {
+	"a_o": "2018",
+	"municipio": "BOAVITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "637",
+	"total_litros_d_a": "2548"
+}, {
+	"a_o": "2018",
+	"municipio": "BOAVITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "1270",
+	"total_litros_d_a": "10160"
+}, {
+	"a_o": "2018",
+	"municipio": "BOYACA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5.0",
+	"vacas_para_orde_o": "1500",
+	"total_litros_d_a": "7500"
+}, {
+	"a_o": "2018",
+	"municipio": "BRICEÑO",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "1600"
+}, {
+	"a_o": "2018",
+	"municipio": "BRICEÑO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "600"
+}, {
+	"a_o": "2018",
+	"municipio": "BRICEÑO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3.0",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "900"
+}, {
+	"a_o": "2018",
+	"municipio": "BUENAVISTA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "2000"
+}, {
+	"a_o": "2018",
+	"municipio": "BUENAVISTA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "9.0",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "4500"
+}, {
+	"a_o": "2018",
+	"municipio": "BUENAVISTA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "700",
+	"total_litros_d_a": "4900"
+}, {
+	"a_o": "2018",
+	"municipio": "BUSBANZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "400"
+}, {
+	"a_o": "2018",
+	"municipio": "CALDAS",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "350",
+	"total_litros_d_a": "3500"
+}, {
+	"a_o": "2018",
+	"municipio": "CALDAS",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "700",
+	"total_litros_d_a": "5600"
+}, {
+	"a_o": "2018",
+	"municipio": "CALDAS",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "320",
+	"total_litros_d_a": "2240"
+}, {
+	"a_o": "2018",
+	"municipio": "CAMPOHERMOSO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "3684",
+	"total_litros_d_a": "14736"
+}, {
+	"a_o": "2018",
+	"municipio": "CERINZA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15.0",
+	"vacas_para_orde_o": "954",
+	"total_litros_d_a": "14310"
+}, {
+	"a_o": "2018",
+	"municipio": "CERINZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "1275",
+	"total_litros_d_a": "10200"
+}, {
+	"a_o": "2018",
+	"municipio": "CHINAVITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "11.0",
+	"vacas_para_orde_o": "2156",
+	"total_litros_d_a": "23716"
+}, {
+	"a_o": "2018",
+	"municipio": "CHINAVITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "220",
+	"total_litros_d_a": "1760"
+}, {
+	"a_o": "2018",
+	"municipio": "CHIQUINQUIRA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15.0",
+	"vacas_para_orde_o": "8600",
+	"total_litros_d_a": "129000"
+}, {
+	"a_o": "2018",
+	"municipio": "CHIQUINQUIRA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5.0",
+	"vacas_para_orde_o": "2500",
+	"total_litros_d_a": "12500"
+}, {
+	"a_o": "2018",
+	"municipio": "CHIQUIZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "1250",
+	"total_litros_d_a": "12500"
+}, {
+	"a_o": "2018",
+	"municipio": "CHISCAS",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "50",
+	"total_litros_d_a": "500"
+}, {
+	"a_o": "2018",
+	"municipio": "CHISCAS",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "2.5",
+	"vacas_para_orde_o": "807",
+	"total_litros_d_a": "2018"
+}, {
+	"a_o": "2018",
+	"municipio": "CHISCAS",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3.5",
+	"vacas_para_orde_o": "1802",
+	"total_litros_d_a": "6307"
+}, {
+	"a_o": "2018",
+	"municipio": "CHITARAQUE",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "800"
+}, {
+	"a_o": "2018",
+	"municipio": "CHIVATA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "9.0",
+	"vacas_para_orde_o": "172",
+	"total_litros_d_a": "1548"
+}, {
+	"a_o": "2018",
+	"municipio": "CHIVATA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "822",
+	"total_litros_d_a": "4932"
+}, {
+	"a_o": "2018",
+	"municipio": "CHIVOR",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "540",
+	"total_litros_d_a": "3780"
+}, {
+	"a_o": "2018",
+	"municipio": "CHIVOR",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "9.0",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "1800"
+}, {
+	"a_o": "2018",
+	"municipio": "CIENEGA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15.0",
+	"vacas_para_orde_o": "250",
+	"total_litros_d_a": "3750"
+}, {
+	"a_o": "2018",
+	"municipio": "CIENEGA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "10000"
+}, {
+	"a_o": "2018",
+	"municipio": "CIENEGA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "10000"
+}, {
+	"a_o": "2018",
+	"municipio": "COMBITA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12.0",
+	"vacas_para_orde_o": "310",
+	"total_litros_d_a": "3720"
+}, {
+	"a_o": "2018",
+	"municipio": "COMBITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "3300",
+	"total_litros_d_a": "26400"
+}, {
+	"a_o": "2018",
+	"municipio": "COMBITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "10000"
+}, {
+	"a_o": "2018",
+	"municipio": "COPER",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "80",
+	"total_litros_d_a": "800"
+}, {
+	"a_o": "2018",
+	"municipio": "COPER",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "3.0",
+	"vacas_para_orde_o": "350",
+	"total_litros_d_a": "1050"
+}, {
+	"a_o": "2018",
+	"municipio": "COPER",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "2.0",
+	"vacas_para_orde_o": "120",
+	"total_litros_d_a": "240"
+}, {
+	"a_o": "2018",
+	"municipio": "CORRALES",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12.0",
+	"vacas_para_orde_o": "40",
+	"total_litros_d_a": "480"
+}, {
+	"a_o": "2018",
+	"municipio": "CORRALES",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "40",
+	"total_litros_d_a": "400"
+}, {
+	"a_o": "2018",
+	"municipio": "CORRALES",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "9.0",
+	"vacas_para_orde_o": "70",
+	"total_litros_d_a": "630"
+}, {
+	"a_o": "2018",
+	"municipio": "COVARACHIA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5.0",
+	"vacas_para_orde_o": "400",
+	"total_litros_d_a": "2000"
+}, {
+	"a_o": "2018",
+	"municipio": "COVARACHIA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5.0",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "1000"
+}, {
+	"a_o": "2018",
+	"municipio": "CUBARA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "1300",
+	"total_litros_d_a": "5200"
+}, {
+	"a_o": "2018",
+	"municipio": "CUBARA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "3750",
+	"total_litros_d_a": "26250"
+}, {
+	"a_o": "2018",
+	"municipio": "CUCAITA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "70",
+	"total_litros_d_a": "700"
+}, {
+	"a_o": "2018",
+	"municipio": "CUCAITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "2100"
+}, {
+	"a_o": "2018",
+	"municipio": "CUCAITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "350",
+	"total_litros_d_a": "2800"
+}, {
+	"a_o": "2018",
+	"municipio": "CUITIVA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "15.0",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "1500"
+}, {
+	"a_o": "2018",
+	"municipio": "CUITIVA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "225",
+	"total_litros_d_a": "2250"
+}, {
+	"a_o": "2018",
+	"municipio": "DUITAMA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "14.0",
+	"vacas_para_orde_o": "2500",
+	"total_litros_d_a": "35000"
+}, {
+	"a_o": "2018",
+	"municipio": "DUITAMA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "3.0",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "3000"
+}, {
+	"a_o": "2018",
+	"municipio": "DUITAMA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "3500",
+	"total_litros_d_a": "21000"
+}, {
+	"a_o": "2018",
+	"municipio": "EL COCUY",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "2500",
+	"total_litros_d_a": "17500"
+}, {
+	"a_o": "2018",
+	"municipio": "EL ESPINO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "1050",
+	"total_litros_d_a": "6300"
+}, {
+	"a_o": "2018",
+	"municipio": "FIRAVITOBA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15.0",
+	"vacas_para_orde_o": "1310",
+	"total_litros_d_a": "19650"
+}, {
+	"a_o": "2018",
+	"municipio": "FIRAVITOBA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "2100",
+	"total_litros_d_a": "16800"
+}, {
+	"a_o": "2018",
+	"municipio": "FIRAVITOBA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "1000",
+	"total_litros_d_a": "10000"
+}, {
+	"a_o": "2018",
+	"municipio": "FLORESTA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5.5",
+	"vacas_para_orde_o": "2500",
+	"total_litros_d_a": "13750"
+}, {
+	"a_o": "2018",
+	"municipio": "GACHANTIVA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "11.0",
+	"vacas_para_orde_o": "20",
+	"total_litros_d_a": "220"
+}, {
+	"a_o": "2018",
+	"municipio": "GACHANTIVA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "2000"
+}, {
+	"a_o": "2018",
+	"municipio": "GACHANTIVA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3.5",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "1750"
+}, {
+	"a_o": "2018",
+	"municipio": "GAMEZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "1950",
+	"total_litros_d_a": "15600"
+}, {
+	"a_o": "2018",
+	"municipio": "GARAGOA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "563",
+	"total_litros_d_a": "3941"
+}, {
+	"a_o": "2018",
+	"municipio": "GARAGOA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5.0",
+	"vacas_para_orde_o": "3590",
+	"total_litros_d_a": "17950"
+}, {
+	"a_o": "2018",
+	"municipio": "GUACAMAYAS",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3.0",
+	"vacas_para_orde_o": "320",
+	"total_litros_d_a": "960"
+}, {
+	"a_o": "2018",
+	"municipio": "GUATEQUE",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "35",
+	"total_litros_d_a": "280"
+}, {
+	"a_o": "2018",
+	"municipio": "GUATEQUE",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "75",
+	"total_litros_d_a": "450"
+}, {
+	"a_o": "2018",
+	"municipio": "GUATEQUE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5.0",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "1500"
+}, {
+	"a_o": "2018",
+	"municipio": "GUAYATA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "620",
+	"total_litros_d_a": "3720"
+}, {
+	"a_o": "2018",
+	"municipio": "GUAYATA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "1200"
+}, {
+	"a_o": "2018",
+	"municipio": "GUICAN",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12.0",
+	"vacas_para_orde_o": "150",
+	"total_litros_d_a": "1800"
+}, {
+	"a_o": "2018",
+	"municipio": "GUICAN",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "350",
+	"total_litros_d_a": "2100"
+}, {
+	"a_o": "2018",
+	"municipio": "GUICAN",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "160",
+	"total_litros_d_a": "1280"
+}, {
+	"a_o": "2018",
+	"municipio": "IZA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15.0",
+	"vacas_para_orde_o": "470",
+	"total_litros_d_a": "7050"
+}, {
+	"a_o": "2018",
+	"municipio": "IZA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "10.1",
+	"vacas_para_orde_o": "90",
+	"total_litros_d_a": "909"
+}, {
+	"a_o": "2018",
+	"municipio": "IZA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8.3",
+	"vacas_para_orde_o": "360",
+	"total_litros_d_a": "2988"
+}, {
+	"a_o": "2018",
+	"municipio": "JENESANO",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "350",
+	"total_litros_d_a": "3500"
+}, {
+	"a_o": "2018",
+	"municipio": "JENESANO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "750",
+	"total_litros_d_a": "5250"
+}, {
+	"a_o": "2018",
+	"municipio": "JENESANO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "520",
+	"total_litros_d_a": "3120"
+}, {
+	"a_o": "2018",
+	"municipio": "JERICO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "1800"
+}, {
+	"a_o": "2018",
+	"municipio": "JERICO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "540",
+	"total_litros_d_a": "5400"
+}, {
+	"a_o": "2018",
+	"municipio": "LA CAPILLA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5.0",
+	"vacas_para_orde_o": "800",
+	"total_litros_d_a": "4000"
+}, {
+	"a_o": "2018",
+	"municipio": "LA UVITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "730",
+	"total_litros_d_a": "5110"
+}, {
+	"a_o": "2018",
+	"municipio": "LA UVITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "1150",
+	"total_litros_d_a": "11500"
+}, {
+	"a_o": "2018",
+	"municipio": "LA VICTORIA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5.0",
+	"vacas_para_orde_o": "250",
+	"total_litros_d_a": "1250"
+}, {
+	"a_o": "2018",
+	"municipio": "LA VICTORIA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5.0",
+	"vacas_para_orde_o": "250",
+	"total_litros_d_a": "1250"
+}, {
+	"a_o": "2018",
+	"municipio": "LABRANZAGRANDE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5.0",
+	"vacas_para_orde_o": "900",
+	"total_litros_d_a": "4500"
+}, {
+	"a_o": "2018",
+	"municipio": "MACANAL",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "800"
+}, {
+	"a_o": "2018",
+	"municipio": "MACANAL",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "2046",
+	"total_litros_d_a": "8184"
+}, {
+	"a_o": "2018",
+	"municipio": "MARIPI",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "180",
+	"total_litros_d_a": "1800"
+}, {
+	"a_o": "2018",
+	"municipio": "MARIPI",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "590",
+	"total_litros_d_a": "4130"
+}, {
+	"a_o": "2018",
+	"municipio": "MARIPI",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "760",
+	"total_litros_d_a": "3040"
+}, {
+	"a_o": "2018",
+	"municipio": "MIRAFLORES",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "13.0",
+	"vacas_para_orde_o": "50",
+	"total_litros_d_a": "650"
+}, {
+	"a_o": "2018",
+	"municipio": "MIRAFLORES",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "3600",
+	"total_litros_d_a": "14400"
+}, {
+	"a_o": "2018",
+	"municipio": "MIRAFLORES",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "1658",
+	"total_litros_d_a": "9948"
+}, {
+	"a_o": "2018",
+	"municipio": "MONGUA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "570",
+	"total_litros_d_a": "3990"
+}, {
+	"a_o": "2018",
+	"municipio": "MONGUA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "890",
+	"total_litros_d_a": "7120"
+}, {
+	"a_o": "2018",
+	"municipio": "MONGUI",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "1100",
+	"total_litros_d_a": "4400"
+}, {
+	"a_o": "2018",
+	"municipio": "MONIQUIRA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12.0",
+	"vacas_para_orde_o": "620",
+	"total_litros_d_a": "7440"
+}, {
+	"a_o": "2018",
+	"municipio": "MONIQUIRA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "2650",
+	"total_litros_d_a": "10600"
+}, {
+	"a_o": "2018",
+	"municipio": "MONIQUIRA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "2400"
+}, {
+	"a_o": "2018",
+	"municipio": "MOTAVITA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "2000"
+}, {
+	"a_o": "2018",
+	"municipio": "MOTAVITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5.0",
+	"vacas_para_orde_o": "150",
+	"total_litros_d_a": "750"
+}, {
+	"a_o": "2018",
+	"municipio": "MOTAVITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "1350",
+	"total_litros_d_a": "9450"
+}, {
+	"a_o": "2018",
+	"municipio": "MUZO",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "3000"
+}, {
+	"a_o": "2018",
+	"municipio": "MUZO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "700",
+	"total_litros_d_a": "5600"
+}, {
+	"a_o": "2018",
+	"municipio": "MUZO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "800",
+	"total_litros_d_a": "3200"
+}, {
+	"a_o": "2018",
+	"municipio": "NOBSA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "950",
+	"total_litros_d_a": "3800"
+}, {
+	"a_o": "2018",
+	"municipio": "NUEVO COLON",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "90",
+	"total_litros_d_a": "540"
+}, {
+	"a_o": "2018",
+	"municipio": "OICATA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "16.0",
+	"vacas_para_orde_o": "900",
+	"total_litros_d_a": "14400"
+}, {
+	"a_o": "2018",
+	"municipio": "OICATA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "4000"
+}, {
+	"a_o": "2018",
+	"municipio": "OICATA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "1400"
+}, {
+	"a_o": "2018",
+	"municipio": "OTANCHE",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "60",
+	"total_litros_d_a": "600"
+}, {
+	"a_o": "2018",
+	"municipio": "OTANCHE",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "4000"
+}, {
+	"a_o": "2018",
+	"municipio": "OTANCHE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "3100",
+	"total_litros_d_a": "12400"
+}, {
+	"a_o": "2018",
+	"municipio": "PACHAVITA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "5.0",
+	"vacas_para_orde_o": "220",
+	"total_litros_d_a": "1100"
+}, {
+	"a_o": "2018",
+	"municipio": "PACHAVITA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5.0",
+	"vacas_para_orde_o": "1400",
+	"total_litros_d_a": "7000"
+}, {
+	"a_o": "2018",
+	"municipio": "PAEZ",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "3150",
+	"total_litros_d_a": "12600"
+}, {
+	"a_o": "2018",
+	"municipio": "PAIPA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "18.0",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "1800"
+}, {
+	"a_o": "2018",
+	"municipio": "PAIPA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "9.0",
+	"vacas_para_orde_o": "3450",
+	"total_litros_d_a": "31050"
+}, {
+	"a_o": "2018",
+	"municipio": "PAIPA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "6050",
+	"total_litros_d_a": "60500"
+}, {
+	"a_o": "2018",
+	"municipio": "PAJARITO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "9.0",
+	"vacas_para_orde_o": "122",
+	"total_litros_d_a": "1098"
+}, {
+	"a_o": "2018",
+	"municipio": "PAJARITO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "175",
+	"total_litros_d_a": "1050"
+}, {
+	"a_o": "2018",
+	"municipio": "PANQUEBA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "13.0",
+	"vacas_para_orde_o": "50",
+	"total_litros_d_a": "650"
+}, {
+	"a_o": "2018",
+	"municipio": "PANQUEBA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "260",
+	"total_litros_d_a": "1820"
+}, {
+	"a_o": "2018",
+	"municipio": "PANQUEBA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5.0",
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "1500"
+}, {
+	"a_o": "2018",
+	"municipio": "PAUNA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12.0",
+	"vacas_para_orde_o": "730",
+	"total_litros_d_a": "8760"
+}, {
+	"a_o": "2018",
+	"municipio": "PAUNA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "440",
+	"total_litros_d_a": "3520"
+}, {
+	"a_o": "2018",
+	"municipio": "PAUNA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "720",
+	"total_litros_d_a": "2880"
+}, {
+	"a_o": "2018",
+	"municipio": "PAYA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12.0",
+	"vacas_para_orde_o": "15",
+	"total_litros_d_a": "180"
+}, {
+	"a_o": "2018",
+	"municipio": "PAYA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "2000"
+}, {
+	"a_o": "2018",
+	"municipio": "PAYA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "75",
+	"total_litros_d_a": "600"
+}, {
+	"a_o": "2018",
+	"municipio": "PAZ DE RIO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "400",
+	"total_litros_d_a": "2400"
+}, {
+	"a_o": "2018",
+	"municipio": "PESCA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "12.0",
+	"vacas_para_orde_o": "600",
+	"total_litros_d_a": "7200"
+}, {
+	"a_o": "2018",
+	"municipio": "PESCA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "1800",
+	"total_litros_d_a": "14400"
+}, {
+	"a_o": "2018",
+	"municipio": "PESCA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "2300",
+	"total_litros_d_a": "16100"
+}, {
+	"a_o": "2018",
+	"municipio": "PISBA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "3.0",
+	"vacas_para_orde_o": "173",
+	"total_litros_d_a": "519"
+}, {
+	"a_o": "2018",
+	"municipio": "PISBA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "2.0",
+	"vacas_para_orde_o": "345",
+	"total_litros_d_a": "690"
+}, {
+	"a_o": "2018",
+	"municipio": "PUERTO BOYACA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "3800",
+	"total_litros_d_a": "38000"
+}, {
+	"a_o": "2018",
+	"municipio": "PUERTO BOYACA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "3.0",
+	"vacas_para_orde_o": "7000",
+	"total_litros_d_a": "21000"
+}, {
+	"a_o": "2018",
+	"municipio": "PUERTO BOYACA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3.5",
+	"vacas_para_orde_o": "20000",
+	"total_litros_d_a": "70000"
+}, {
+	"a_o": "2018",
+	"municipio": "QUIPAMA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3.0",
+	"vacas_para_orde_o": "700",
+	"total_litros_d_a": "2100"
+}, {
+	"a_o": "2018",
+	"municipio": "RAMIRIQUI",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "10.0",
+	"vacas_para_orde_o": "200",
+	"total_litros_d_a": "2000"
+}, {
+	"a_o": "2018",
+	"municipio": "RAMIRIQUI",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "3000",
+	"total_litros_d_a": "24000"
+}, {
+	"a_o": "2018",
+	"municipio": "RAQUIRA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15.0",
+	"vacas_para_orde_o": "87",
+	"total_litros_d_a": "1305"
+}, {
+	"a_o": "2018",
+	"municipio": "RAQUIRA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "750",
+	"total_litros_d_a": "6000"
+}, {
+	"a_o": "2018",
+	"municipio": "RAQUIRA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "500",
+	"total_litros_d_a": "2000"
+}, {
+	"a_o": "2018",
+	"municipio": "RONDON",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "1370",
+	"total_litros_d_a": "9590"
+}, {
+	"a_o": "2018",
+	"municipio": "RONDON",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "400",
+	"total_litros_d_a": "2400"
+}, {
+	"a_o": "2018",
+	"municipio": "SABOYA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "15.0",
+	"vacas_para_orde_o": "1800",
+	"total_litros_d_a": "27000"
+}, {
+	"a_o": "2018",
+	"municipio": "SABOYA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "1400",
+	"total_litros_d_a": "9800"
+}, {
+	"a_o": "2018",
+	"municipio": "SACHICA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "2.5",
+	"vacas_para_orde_o": "16",
+	"total_litros_d_a": "40"
+}, {
+	"a_o": "2018",
+	"municipio": "SAMACA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "14.0",
+	"vacas_para_orde_o": "350",
+	"total_litros_d_a": "4900"
+}, {
+	"a_o": "2018",
+	"municipio": "SAMACA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "790",
+	"total_litros_d_a": "5530"
+}, {
+	"a_o": "2018",
+	"municipio": "SAMACA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "1530",
+	"total_litros_d_a": "12240"
+}, {
+	"a_o": "2018",
+	"municipio": "SAN EDUARDO",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "11.0",
+	"vacas_para_orde_o": "50",
+	"total_litros_d_a": "550"
+}, {
+	"a_o": "2018",
+	"municipio": "SAN EDUARDO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "9.0",
+	"vacas_para_orde_o": "80",
+	"total_litros_d_a": "720"
+}, {
+	"a_o": "2018",
+	"municipio": "SAN EDUARDO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7.0",
+	"vacas_para_orde_o": "750",
+	"total_litros_d_a": "5250"
+}, {
+	"a_o": "2018",
+	"municipio": "SAN JOSE DE PARE",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "120",
+	"total_litros_d_a": "720"
+}, {
+	"a_o": "2018",
+	"municipio": "SAN JOSE DE PARE",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "50",
+	"total_litros_d_a": "400"
+}, {
+	"a_o": "2018",
+	"municipio": "SAN LUIS DE GACENO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3.5",
+	"vacas_para_orde_o": "7303",
+	"total_litros_d_a": "25561"
+}, {
+	"a_o": "2018",
+	"municipio": "SAN MATEO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "9.0",
+	"vacas_para_orde_o": "52",
+	"total_litros_d_a": "468"
+}, {
+	"a_o": "2018",
+	"municipio": "SAN MATEO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "4.0",
+	"vacas_para_orde_o": "485",
+	"total_litros_d_a": "1940"
+}, {
+	"a_o": "2018",
+	"municipio": "SAN MIGUEL DE SEMA",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "18.0",
+	"vacas_para_orde_o": "4500",
+	"total_litros_d_a": "81000"
+}, {
+	"a_o": "2018",
+	"municipio": "SAN MIGUEL DE SEMA",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "12.0",
+	"vacas_para_orde_o": "3000",
+	"total_litros_d_a": "36000"
+}, {
+	"a_o": "2018",
+	"municipio": "SAN MIGUEL DE SEMA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "100",
+	"total_litros_d_a": "800"
+}, {
+	"a_o": "2018",
+	"municipio": "SAN PABLO DE BORBUR",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "12.0",
+	"vacas_para_orde_o": "350",
+	"total_litros_d_a": "4200"
+}, {
+	"a_o": "2018",
+	"municipio": "SAN PABLO DE BORBUR",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "3.0",
+	"vacas_para_orde_o": "1800",
+	"total_litros_d_a": "5400"
+}, {
+	"a_o": "2018",
+	"municipio": "SANTA MARIA",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "7.5",
+	"vacas_para_orde_o": "4086",
+	"total_litros_d_a": "30645"
+}, {
+	"a_o": "2018",
+	"municipio": "SANTA ROSA DE VITERBO",
+	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
+	"produccion_por_vaca_litros_dia": "8.0",
+	"vacas_para_orde_o": "1250",
+	"total_litros_d_a": "10000"
+}, {
+	"a_o": "2018",
+	"municipio": "SANTA ROSA DE VITERBO",
+	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
+	"produccion_por_vaca_litros_dia": "6.0",
+	"vacas_para_orde_o": "1250",
+	"total_litros_d_a": "7500"
+}, {
+	"a_o": "2018",
+	"municipio": "SANTA ROSA DE VITERBO",
+	"tipo_de_explotacion": "DOBLE PROPOSITO",
+	"produccion_por_vaca_litros_dia": "5.0",
+	"vacas_para_orde_o": "3600",
+	"total_litros_d_a": "18000"
+}]}

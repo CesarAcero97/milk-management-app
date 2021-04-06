@@ -1,8 +1,6 @@
 package persistence;
 
-import com.github.cliftonlabs.json_simple.JsonKey;
-
-public enum JsonKeysList implements JsonKey {
+public enum JsonKeysList {
 	YEAR("a_o"),
 	TOWN("municipio"),
 	FARMING_TYPE("tipo_de_explotacion"),
@@ -16,14 +14,14 @@ public enum JsonKeysList implements JsonKey {
 		this.key = key;
 	}
 	
-	@Override
-	public String getKey() {
-		return key;
-	}
-
-	@Override
-	public Object getValue() {
-		return null;
-	}
+//	@Override
+//	public String getKey() {
+//		return key;
+//	}
+//
+//	@Override
+//	public Object getValue() {
+//		return null;
+//	}
 
 }
