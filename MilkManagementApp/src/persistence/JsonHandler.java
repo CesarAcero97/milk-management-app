@@ -37,24 +37,18 @@ public class JsonHandler {
 		for (int i = 0; i < entryList.size(); i++) {
 			JsonObject entryObj = (JsonObject) entryList.get(i);
 			try {
-				if (entryObj.getInteger("produccion_por_vaca_litros_dia") == null && entryObj.getInteger("vacas_para_orde_o") == null && entryObj.getInteger("total_litros_d_a") == null) {
-					year = entryObj.getInteger("a_o");
-					town = entryObj.getString("municipio");
-					farmingType = entryObj.getString("tipo_de_explotacion");
-					dailyLitersPerCow = 0;
-					numberOfCows = 0;
-					dailyLiters = 0;
-				} else {
+//				if (entryObj.getInteger("produccion_por_vaca_litros_dia") == null && entryObj.getInteger("vacas_para_orde_o") == null && entryObj.getInteger("total_litros_d_a") == null) {
+				if (entryObj.size() == 6) {
 					year = entryObj.getInteger("a_o");
 					town = entryObj.getString("municipio");
 					farmingType = entryObj.getString("tipo_de_explotacion");
 					dailyLitersPerCow = entryObj.getInteger("produccion_por_vaca_litros_dia");
 					numberOfCows = entryObj.getInteger("vacas_para_orde_o");
 					dailyLiters = entryObj.getInteger("total_litros_d_a");
+					ProductionEntry employee = new ProductionEntry(year, town, Utilities.parseFarmingType(farmingType), dailyLitersPerCow, numberOfCows, dailyLiters);
+					System.out.println(year + "\n" + town + "\n" + farmingType + "\n" + dailyLitersPerCow + "\n" + numberOfCows + "\n" +  dailyLiters + "\n");
+					personList.add(employee);
 				}
-				ProductionEntry employee = new ProductionEntry(year, town, Utilities.parseFarmingType(farmingType), dailyLitersPerCow, numberOfCows, dailyLiters);
-				System.out.println(year + "\n" + town + "\n" + farmingType + "\n" + dailyLitersPerCow + "\n" + numberOfCows + "\n" +  dailyLiters + "\n");
-				personList.add(employee);
 			} catch (NullPointerException e) {
 				e.printStackTrace();
 			}
@@ -69,12 +63,13 @@ public class JsonHandler {
 		BufferedReader rd = new BufferedReader(new InputStreamReader(getInputStream(false, webService)));
 		System.out.println("OUTPUT IS -------------");
 		
-		JsonObject jsonObject = (JsonObject) Jsoner.deserialize(rd);
-		JsonArray jsonArrayEntryList = (JsonArray) jsonObject.get("lista");
+		JsonArray jsonArrayEntryList = (JsonArray) Jsoner.deserialize(rd);
 		
 		for (int i = 0; i < jsonArrayEntryList.size(); i++) {
-			JsonObject jsonFN = (JsonObject) jsonObject.get(i);
-			System.out.println("Año: " + jsonFN.getInteger("a_o"));
+			JsonObject jsonFN = (JsonObject) jsonArrayEntryList.get(i);
+			if (jsonFN.size() == 6) {
+				System.out.println("Año: " + jsonFN.getInteger("a_o") + "\n Municipio: " + jsonFN.getString("municipio")+ "\n Tipo de explotación: " + jsonFN.getString("tipo_de_explotacion") + "\n Producción por vaca: " + jsonFN.getInteger("produccion_por_vaca_litros_dia")+ "\n Número de vacas: " + jsonFN.getInteger("vacas_para_orde_o") + "\n Total de litros diarios: " + jsonFN.getInteger("total_litros_d_a"));
+			}
 		}
 	}
 	
@@ -111,7 +106,9 @@ public class JsonHandler {
 	
 	public static void main(String[] args) {
 		try {
-			new JsonHandler().readFile("resources/input/data.json");
+//			new JsonHandler().readFile("resources/input/data.json");
+			new JsonHandler();
+			JsonHandler.readFileFromUrl("https://www.datos.gov.co/resource/3urw-7985.json");
 		} catch (IOException | DeserializationException e) {
 			e.printStackTrace();
 		}
