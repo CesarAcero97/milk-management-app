@@ -103,6 +103,7 @@
 	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
 	"produccion_por_vaca_litros_dia": "10",
 	"vacas_para_orde_o": "120"
+	"total_litros_d_a": "1200"
 }, {
 	"a_o": "2016",
 	"municipio": "TUTA",
@@ -171,7 +172,8 @@
 	"municipio": "COPER",
 	"tipo_de_explotacion": "DOBLE PROPOSITO",
 	"produccion_por_vaca_litros_dia": "3",
-	"vacas_para_orde_o": "300"
+	"vacas_para_orde_o": "300",
+	"total_litros_d_a": "900"
 }, {
 	"a_o": "2016",
 	"municipio": "VILLA DE LEYVA",
@@ -192,6 +194,7 @@
 	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
 	"produccion_por_vaca_litros_dia": "4",
 	"vacas_para_orde_o": "800"
+	"total_litros_d_a": "1200"
 }, {
 	"a_o": "2016",
 	"municipio": "GUATEQUE",
@@ -1059,6 +1062,7 @@
 	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
 	"produccion_por_vaca_litros_dia": "5",
 	"vacas_para_orde_o": "100"
+	"total_litros_d_a": "500"
 }, {
 	"a_o": "2016",
 	"municipio": "SOCHA",
@@ -1429,6 +1433,7 @@
 	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
 	"produccion_por_vaca_litros_dia": "8",
 	"vacas_para_orde_o": "50"
+	"total_litros_d_a": "400"
 }, {
 	"a_o": "2016",
 	"municipio": "BOAVITA",
@@ -1968,16 +1973,6 @@
 	"produccion_por_vaca_litros_dia": "7",
 	"vacas_para_orde_o": "700",
 	"total_litros_d_a": "4900"
-}, {
-	"a_o": "2017",
-	"municipio": "BUSBANZA",
-	"tipo_de_explotacion": "LECHERIA ESPECIALIZADA",
-	"total_litros_d_a": "0"
-}, {
-	"a_o": "2017",
-	"municipio": "BUSBANZA",
-	"tipo_de_explotacion": "LECHERIA TRADICIONAL",
-	"total_litros_d_a": "0"
 }, {
 	"a_o": "2017",
 	"municipio": "BUSBANZA",
