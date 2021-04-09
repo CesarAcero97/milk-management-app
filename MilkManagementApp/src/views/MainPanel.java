@@ -1,4 +1,4 @@
-package view;
+package views;
 
 import java.util.ArrayList;
 
@@ -6,8 +6,8 @@ import javax.swing.BoxLayout;
 import javax.swing.JPanel;
 
 import presenter.PresenterApp;
-import view.body.ContainerBody;
-import view.header.ContainerHeader;
+import views.body.ContainerBody;
+import views.header.ContainerHeader;
 
 public class MainPanel extends JPanel {
 	

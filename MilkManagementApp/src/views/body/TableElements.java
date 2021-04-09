@@ -1,4 +1,4 @@
-package view.body;
+package views.body;
 
 import javax.swing.JPanel;
 

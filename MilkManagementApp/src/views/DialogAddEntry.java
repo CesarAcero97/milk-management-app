@@ -1,28 +1,24 @@
-package view;
+package views;
 
 import javax.swing.JDialog;
 
+import model.ProductionEntry;
 import presenter.PresenterApp;
 
-public class DialogFileChooser extends JDialog {
-	
+public class DialogAddEntry extends JDialog {
+
 	/**
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
 	
-	public DialogFileChooser(PresenterApp presenterApp) {
+	public DialogAddEntry(PresenterApp presenterApp) {
 		// TODO Auto-generated constructor stub
 	}
 
-	public String getPathFile() {
+	public ProductionEntry createEntry() {
 		// TODO Auto-generated method stub
 		return null;
-	}
-
-	public void showSaveFile() {
-		// TODO Auto-generated method stub
-		
 	}
 
 }
