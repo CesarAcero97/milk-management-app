@@ -1,0 +1,10 @@
+package runs;
+
+import presenter.PresenterApp;
+
+public class Runner {
+
+	public static void main(String[] args) {
+		new PresenterApp();
+	}
+}

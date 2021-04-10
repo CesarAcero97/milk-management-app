@@ -6,7 +6,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.io.Reader;
 import java.net.ConnectException;
 import java.net.HttpURLConnection;
 import java.net.InetSocketAddress;
@@ -14,7 +13,6 @@ import java.net.MalformedURLException;
 import java.net.Proxy;
 import java.net.URL;
 import java.net.UnknownHostException;
-import java.nio.charset.Charset;
 import java.util.ArrayList;
 
 import org.json.simple.DeserializationException;
@@ -23,7 +21,7 @@ import org.json.simple.JsonObject;
 import org.json.simple.Jsoner;
 
 import model.ProductionEntry;
-import utils.Utilities;
+import utilities.Utilities;
 
 public class JsonHandler {
 	
