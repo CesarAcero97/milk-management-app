@@ -13,11 +13,12 @@ public class ConstantsUI {
 	
 	public static final Color COLOR_DARKCYAN = new Color(0,192,113);
 	public static final Color COLOR_MEDIUM_AQUAMARINE = new Color(128,223,181);
+	public static final Color COLOR_DARKS_LATE_GRAY = new Color(38,38,38);
+	public static final Color COLOR_BLACK = new Color(26,26,27);
 	
 	public static final Border BORDER_EMPTY_NEW_USER_PANEL = new EmptyBorder(15, 15, 15, 15);
 	public static final Font FONT_UBUNTU = new Font("Ubuntu", Font.BOLD, 16);
-	
+		
 	public static final Font FONT_ROBOTO = new Font("Segoe UI Emoji", Font.BOLD, 30);
-	
 	
 }
