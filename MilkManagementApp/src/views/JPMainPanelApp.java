@@ -2,6 +2,7 @@ package views;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionListener;
+import java.util.ArrayList;
 
 import javax.swing.JPanel;
 
@@ -37,5 +38,17 @@ public class JPMainPanelApp extends JPanel {
 		this.add(jpMainHeaderApp, BorderLayout.NORTH);
 		this.add(jpMainBodyApp, BorderLayout.CENTER);
 		this.add(jpMainFooterApp, BorderLayout.SOUTH);
+	}
+	
+	public void refreshTable(ArrayList<Object[]> vector) {
+		jpMainBodyApp.refreshTable(vector);
+	}
+
+	public void cleansRowTable() {
+		jpMainBodyApp.cleansRowTable();
+	}
+
+	public void setIdentifiersPrincipal() {
+		jpMainBodyApp.setIdentifiersPrincipal();
 	}
 }

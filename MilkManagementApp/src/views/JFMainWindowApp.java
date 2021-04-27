@@ -1,6 +1,7 @@
 package views;
 
 import java.awt.event.ActionListener;
+import java.util.ArrayList;
 
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
@@ -45,5 +46,17 @@ public class JFMainWindowApp extends JFrame {
 	
 	public void showDialogAdd() {
 		 dialogAddMunicipality.setVisible(true);
+	}
+	
+	public void cleansRowTable() {
+		jpMainPanelApp.cleansRowTable();
+	}
+
+	public void setIdentifiersPrincipal() {
+		jpMainPanelApp.setIdentifiersPrincipal();
+	}
+
+	public void refreshTable(ArrayList<Object[]> vector) {
+		jpMainPanelApp.refreshTable(vector);
 	}
 }

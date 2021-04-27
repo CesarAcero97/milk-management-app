@@ -1,6 +1,7 @@
 package views.body;
 
 import java.awt.event.ActionListener;
+import java.util.ArrayList;
 
 import javax.swing.BoxLayout;
 import javax.swing.JPanel;
@@ -38,5 +39,17 @@ public class JPMainBodyApp extends JPanel {
 		this.add(mainFunction);
 		this.add(mainInformation);
 		this.add(mainStadistic);
+	}
+	
+	public void refreshTable(ArrayList<Object[]> vector) {
+		tableInformation.refresh(vector);
+	}
+
+	public void cleansRowTable() {
+		tableInformation.cleanRowsTable();
+	}
+
+	public void setIdentifiersPrincipal() {
+		tableInformation.setIdetifiersPrincipal();
 	}
 }

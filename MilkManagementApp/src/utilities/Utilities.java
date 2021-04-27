@@ -42,6 +42,10 @@ public class Utilities {
 		properties.load( input );
 		return properties;
 	}
+
+	public static String[] SplitLine(String verifyLine) {
+		return verifyLine.split(",");
+	}
 	
 	public static void saveProperties(Properties properties, String pathFile) throws IOException{
 		FileOutputStream output = new FileOutputStream(pathFile);
@@ -64,5 +68,4 @@ public class Utilities {
 		headers[6] = HandlerLanguage.languageProperties.getProperty(TEXT_TOTAL_LITERS_PER_DAY);
 		return headers;
 	}
-
 }

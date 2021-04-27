@@ -3,6 +3,7 @@ package views.body;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
+import java.util.ArrayList;
 
 import javax.swing.BoxLayout;
 import javax.swing.JPanel;
@@ -15,6 +16,8 @@ import javax.swing.table.DefaultTableModel;
 
 import constants.ConstantsUI;
 import constants.PathConstants;
+import exceptions.NotSelectionRow;
+import exceptions.ReturnPrincipalException;
 import utilities.Utilities;
 import views.models.UploadResources;
 
@@ -99,6 +102,74 @@ public class JPMainTable extends JPanel {
 		centerModel.setHorizontalAlignment(SwingConstants.CENTER);
 		for (int i = 0; i < dtmElements.getColumnCount(); i++) {
 			jtElements.getColumnModel().getColumn(i).setCellRenderer(centerModel);
+		}
+	}
+	
+	public void addElementToTable(Object[] vector) {
+		dtmElements.addRow(vector);
+		centertextInCell();
+	}
+
+	public void addElementToTableSpecific(Object[] vector) {
+		dtmElements.addRow(vector);
+		centertextInCell();
+	}
+
+	public void cleanRowsTable() {
+		dtmElements.setNumRows(0);
+	}
+
+	public void setIdentifiers(String[] identifiers) {
+		if (identifiers.length <= 4) {
+			for (int j = 0; j < identifiers.length; j++) {
+				identifiers[j] = ((String) identifiers[j]);
+			}
+		}
+		dtmElements.setColumnIdentifiers(identifiers);
+	}
+
+	public void setIdentifiersSortList(String[] identifiers) {
+		if (identifiers.length <= 4) {
+			for (int j = 0; j < identifiers.length; j++) {
+				identifiers[j] = ((String) identifiers[j]);
+			}
+		}
+		dtmElements.setColumnIdentifiers(identifiers);
+	}
+
+	public void setIdetifiersPrincipal() {
+		dtmElements.setColumnIdentifiers(Utilities.changeLanguageHeaders());
+		centertextInCell();
+	}
+
+	public short getRowSelect() throws NotSelectionRow {
+		if (jtElements.getSelectedRow() == -1) {
+			throw new NotSelectionRow();
+		} else {
+			return (short) dtmElements.getValueAt(jtElements.getSelectedRow(), 0);
+		}
+	}
+
+	public boolean getSizeHeaders() throws ReturnPrincipalException {
+		if (jtElements.getColumnCount() < 5) {
+			throw new ReturnPrincipalException();
+		} else {
+			return false;
+		}
+	}
+
+	public int getSelectRow() {
+		return jtElements.getSelectedRow();
+	}
+
+	public void deleteRow(int row) {
+		dtmElements.removeRow(row);
+	}
+
+	public void refresh(ArrayList<Object[]> vector) {
+		cleanRowsTable();
+		for (Object[] objects : vector) {
+			addElementToTable(objects);
 		}
 	}
 }
