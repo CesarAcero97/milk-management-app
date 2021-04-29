@@ -24,14 +24,15 @@ import model.ProductionEntry;
 import utilities.Utilities;
 
 public class JsonHandler {
-	
-	public ArrayList<ProductionEntry> readFile(String fileName) throws FileNotFoundException, IOException, DeserializationException {
+
+	public ArrayList<ProductionEntry> readFile(String fileName)
+			throws FileNotFoundException, IOException, DeserializationException {
 		ArrayList<ProductionEntry> personList = new ArrayList<>();
 		JsonObject jsonObject = (JsonObject) Jsoner.deserialize(new FileReader(fileName));
 		JsonArray entryList = (JsonArray) jsonObject.get("lista");
 		int year, dailyLitersPerCow, numberOfCows, dailyLiters;
 		String town, farmingType;
-		
+
 		for (int i = 0; i < entryList.size(); i++) {
 			JsonObject entryObj = (JsonObject) entryList.get(i);
 			try {
@@ -43,8 +44,10 @@ public class JsonHandler {
 					dailyLitersPerCow = entryObj.getInteger("produccion_por_vaca_litros_dia");
 					numberOfCows = entryObj.getInteger("vacas_para_orde_o");
 					dailyLiters = entryObj.getInteger("total_litros_d_a");
-					ProductionEntry employee = new ProductionEntry(year, town, Utilities.parseFarmingType(farmingType), dailyLitersPerCow, numberOfCows, dailyLiters);
-					System.out.println(year + "\n" + town + "\n" + farmingType + "\n" + dailyLitersPerCow + "\n" + numberOfCows + "\n" +  dailyLiters + "\n");
+					ProductionEntry employee = new ProductionEntry(year, town, Utilities.parseFarmingType(farmingType),
+							dailyLitersPerCow, numberOfCows, dailyLiters);
+					System.out.println(year + "\n" + town + "\n" + farmingType + "\n" + dailyLitersPerCow + "\n"
+							+ numberOfCows + "\n" + dailyLiters + "\n");
 					personList.add(employee);
 				}
 			} catch (NullPointerException e) {
@@ -54,23 +57,45 @@ public class JsonHandler {
 		}
 		return personList;
 	}
-	
-	public static void readFileFromUrl(String url) throws IOException, DeserializationException {
+
+//	public static void readFileFromUrl(String url) throws IOException, DeserializationException {
+//		String webService = "https://www.datos.gov.co/resource/3urw-7985.json";
+//		String webService = "https://www.datos.gov.co/api/views/3urw-7985/rows.json?accessType=DOWNLOAD";
+//		BufferedReader rd = new BufferedReader(new InputStreamReader(getInputStream(false, webService)));
+//		System.out.println("OUTPUT IS -------------");
+//		
+//		JsonArray jsonArrayEntryList = (JsonArray) Jsoner.deserialize(rd);
+//		
+//		for (int i = 0; i < jsonArrayEntryList.size(); i++) {
+//			JsonObject jsonFN = (JsonObject) jsonArrayEntryList.get(i);
+//			if (jsonFN.size() == 6) {
+//				System.out.println("Año: " + jsonFN.getInteger("a_o") + "\n Municipio: " + jsonFN.getString("municipio")+ "\n Tipo de explotación: " + jsonFN.getString("tipo_de_explotacion") + "\n Producción por vaca: " + jsonFN.getInteger("produccion_por_vaca_litros_dia")+ "\n Número de vacas: " + jsonFN.getInteger("vacas_para_orde_o") + "\n Total de litros diarios: " + jsonFN.getInteger("total_litros_d_a"));
+//			}
+//		}
+//	}
+
+	public static ArrayList<String> readFileFromUrl(String url) throws IOException, DeserializationException {
+		
+		ArrayList<String> productionEntryFile = new ArrayList<String>();
 		String webService = "https://www.datos.gov.co/resource/3urw-7985.json";
 //		String webService = "https://www.datos.gov.co/api/views/3urw-7985/rows.json?accessType=DOWNLOAD";
 		BufferedReader rd = new BufferedReader(new InputStreamReader(getInputStream(false, webService)));
 		System.out.println("OUTPUT IS -------------");
-		
 		JsonArray jsonArrayEntryList = (JsonArray) Jsoner.deserialize(rd);
-		
 		for (int i = 0; i < jsonArrayEntryList.size(); i++) {
 			JsonObject jsonFN = (JsonObject) jsonArrayEntryList.get(i);
 			if (jsonFN.size() == 6) {
-				System.out.println("Año: " + jsonFN.getInteger("a_o") + "\n Municipio: " + jsonFN.getString("municipio")+ "\n Tipo de explotación: " + jsonFN.getString("tipo_de_explotacion") + "\n Producción por vaca: " + jsonFN.getInteger("produccion_por_vaca_litros_dia")+ "\n Número de vacas: " + jsonFN.getInteger("vacas_para_orde_o") + "\n Total de litros diarios: " + jsonFN.getInteger("total_litros_d_a"));
+			//	System.out.println("Año: " + jsonFN.getInteger("a_o") + "\n Municipio: " + jsonFN.getString("municipio")+ "\n Tipo de explotación: " + jsonFN.getString("tipo_de_explotacion") + "\n Producción por vaca: " + jsonFN.getInteger("produccion_por_vaca_litros_dia")+ "\n Número de vacas: " + jsonFN.getInteger("vacas_para_orde_o") + "\n Total de litros diarios: " + jsonFN.getInteger("total_litros_d_a"));
+			String data =	 jsonFN.getInteger("a_o") +","+  jsonFN.getString("municipio")+","+  jsonFN.getString("tipo_de_explotacion") +","+ jsonFN.getInteger("produccion_por_vaca_litros_dia")+ 
+					","+ jsonFN.getInteger("vacas_para_orde_o") +","+ jsonFN.getInteger("total_litros_d_a");
+				
+			 System.out.println(data);
+			productionEntryFile.add(data);
 			}
 		}
+		return productionEntryFile;
 	}
-	
+
 	public static InputStream getInputStream(boolean isProxy, String filePath) {
 		HttpURLConnection httpURLConnection;
 		URL url = null;
@@ -79,7 +104,7 @@ public class JsonHandler {
 			url = new URL(filePath);
 			if (!isProxy) {
 				System.out.println("Sin proxy");
-				httpURLConnection = (HttpURLConnection) url.openConnection();	
+				httpURLConnection = (HttpURLConnection) url.openConnection();
 				inputStream = httpURLConnection.getInputStream();
 			} else {
 				System.out.println("Con proxy");
@@ -101,7 +126,7 @@ public class JsonHandler {
 		}
 		return inputStream;
 	}
-	
+
 	public static void main(String[] args) {
 		try {
 //			new JsonHandler().readFile("resources/input/data.json");
@@ -111,5 +136,5 @@ public class JsonHandler {
 			e.printStackTrace();
 		}
 	}
-	
+
 }

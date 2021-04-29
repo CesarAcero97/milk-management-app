@@ -18,7 +18,11 @@ public class ConstantsUI {
 	
 	public static final Border BORDER_EMPTY_NEW_USER_PANEL = new EmptyBorder(15, 15, 15, 15);
 	public static final Font FONT_UBUNTU = new Font("Ubuntu", Font.BOLD, 16);
-		
+	
+	
+	
+	
 	public static final Font FONT_ROBOTO = new Font("Segoe UI Emoji", Font.BOLD, 30);
+	
 	
 }

@@ -80,7 +80,7 @@ public class JMBMainMenu extends JMenuBar {
 	}
 
 	private void addComponentsToMenuBar(ActionListener actionListener) {
-		jmiNew.setActionCommand(Commands.C_NEW.toString());
+		jmiNew.setActionCommand(Commands.C_SHOW_PANEL_NEW.toString());
 		jmiNew.addActionListener(actionListener);
 		jmenuFile.add(jmiNew);
 		jmiEdit.setActionCommand(Commands.C_EDIT.toString());

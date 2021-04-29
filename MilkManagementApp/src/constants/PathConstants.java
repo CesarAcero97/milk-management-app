@@ -30,4 +30,11 @@ public class PathConstants {
 	public static final String PATH_ICON_FRIOGAN= "/img/iconFriogan.png";
 	public static final String PATH_ICON_FUNDAGAN = "/img/iconFundagan.png";
 	public static final String PATH_ICON_TV = "/img/iconTV.jpg";
+
+
+	
+	
+	
+	
+	
 }

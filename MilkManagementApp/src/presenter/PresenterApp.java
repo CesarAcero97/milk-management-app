@@ -4,14 +4,18 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 
 import javax.swing.JOptionPane;
 
+import org.json.simple.DeserializationException;
+
 import constants.Commands;
-import model.Processor;
 import persistence.HandlerLanguage;
+import persistence.JsonHandler;
 import utilities.Utilities;
 import views.JFMainWindowApp;
+import model.*;
 
 public class PresenterApp implements ActionListener {
 
@@ -26,17 +30,38 @@ public class PresenterApp implements ActionListener {
 	public PresenterApp() {
 		loadConfiguration();
 		initApp();
-		 display.showDialogAdd();
+		StartApp();
+		display.refreshTable(processor.generateFullList());
 	}
 
 	private void initApp() {
 		display = new JFMainWindowApp(this);
+		processor = new Processor();
+	}
+
+	private void StartApp() {
+		
+		try {
+//			new JsonHandler().readFile("resources/input/data.json");
+			new JsonHandler();
+			
+			ArrayList<String> listProductionEntry = JsonHandler.readFileFromUrl("https://www.datos.gov.co/resource/3urw-7985.json");
+			manageCreateMunicipality(listProductionEntry);
+			//JsonHandler.readFileFromUrl("https://www.datos.gov.co/resource/3urw-7985.json");
+		} catch (IOException | DeserializationException e) {
+			e.printStackTrace();
+		}
 	}
 
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		switch (Commands.valueOf(e.getActionCommand())) {
-		case C_NEW:
+		case C_SHOW_PANEL_NEW:
+			manageshowNewPanel();
+			break;
+
+		case C_ADD:
+
 			break;
 		case C_EDIT:
 			break;

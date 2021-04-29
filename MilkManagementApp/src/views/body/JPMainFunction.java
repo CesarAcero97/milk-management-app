@@ -39,7 +39,7 @@ public class JPMainFunction extends JToolBar {
 
 	private void initComponents(ActionListener actionListener) {
 		bntAdd = new RoundedJButton(arcWidth, arcHeight, Utilities.generateProperty(TEXT_ADD), ConstantsUI.COLOR_WHITE,
-				Color.BLACK, ConstantsUI.FONT_UBUNTU, Commands.C_NEW.toString(), actionListener,
+				Color.BLACK, ConstantsUI.FONT_UBUNTU, Commands.C_SHOW_PANEL_NEW.toString(), actionListener,
 				PathConstants.PATH_ICON_ADD);
 		bntEdit = new RoundedJButton(arcWidth, arcHeight, Utilities.generateProperty(TEXT_EDIT),
 				ConstantsUI.COLOR_WHITE, Color.BLACK, ConstantsUI.FONT_UBUNTU, Commands.C_EDIT.toString(),
