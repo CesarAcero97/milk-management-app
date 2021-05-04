@@ -35,16 +35,26 @@ public class Utilities {
 		return type;
 	}
 	
+	
+	
+	public static boolean verifyFields( String jtfNameMunicipality) {
+		if ( jtfNameMunicipality.isEmpty()) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+	
+	public static String[] SplitLine(String verifyLine) {
+		return verifyLine.split(",");
+	}
+	
 	// METODOS DE PROPIEDADES PARA CAMBIO DE LENGUAJE
 	public static Properties generateProperties(String pathFile) throws IOException {
 		Properties properties = new Properties();
 		InputStream input = new FileInputStream(pathFile);
 		properties.load( input );
 		return properties;
-	}
-
-	public static String[] SplitLine(String verifyLine) {
-		return verifyLine.split(",");
 	}
 	
 	public static void saveProperties(Properties properties, String pathFile) throws IOException{
@@ -68,4 +78,5 @@ public class Utilities {
 		headers[6] = HandlerLanguage.languageProperties.getProperty(TEXT_TOTAL_LITERS_PER_DAY);
 		return headers;
 	}
+
 }

@@ -8,6 +8,9 @@ import javax.swing.JFrame;
 import javax.swing.JScrollPane;
 
 import constants.PathConstants;
+import exceptions.FieldsNullException;
+import exceptions.NotSelectionRow;
+import model.ProductionEntry;
 
 public class JFMainWindowApp extends JFrame {
 
@@ -16,6 +19,7 @@ public class JFMainWindowApp extends JFrame {
 	private JPMainPanelApp jpMainPanelApp;
 	private JScrollPane scrollPane;
 	private JDMainAddMunicipality dialogAddMunicipality;
+	private JDMainEditMunicipality dialogEditMunicipality;
 
 	public JFMainWindowApp(ActionListener actionListener) {
 		intiFrame();
@@ -36,6 +40,7 @@ public class JFMainWindowApp extends JFrame {
 		jpMainPanelApp = new JPMainPanelApp(actionListener);
 		scrollPane = new JScrollPane();
 		this.dialogAddMunicipality = new JDMainAddMunicipality(actionListener, this);
+		this.dialogEditMunicipality = new JDMainEditMunicipality(actionListener, this);
 	}
 
 	private void addComponentsToFrame() {
@@ -44,10 +49,34 @@ public class JFMainWindowApp extends JFrame {
 		this.getContentPane().add(scrollPane);
 	}
 	
+	public ProductionEntry createProductionEntry() throws FieldsNullException {
+		return dialogAddMunicipality.createProductionEntry();
+	}
+	
+	public void addElementToTable(Object[] vectorElement) {
+		jpMainPanelApp.addElementToTable(vectorElement);
+	}
+	
+	public void showDialogEditUser() {
+		dialogEditMunicipality.setVisible(true);
+	}
+	
+	public Object[] editMunicipaity() {
+		return dialogEditMunicipality.editMunicipality();
+	}
+
 	public void showDialogAdd() {
 		 dialogAddMunicipality.setVisible(true);
 	}
+	public void notShowDialog() {
+		dialogAddMunicipality.setVisible(false);
+		dialogAddMunicipality.setDefaultFields();
+	}
 	
+	public int getRowTable() throws NotSelectionRow {
+		return jpMainPanelApp.getRowTable();
+	}
+
 	public void cleansRowTable() {
 		jpMainPanelApp.cleansRowTable();
 	}

@@ -20,10 +20,13 @@ import org.json.simple.JsonArray;
 import org.json.simple.JsonObject;
 import org.json.simple.Jsoner;
 
+import model.Processor;
 import model.ProductionEntry;
 import utilities.Utilities;
 
 public class JsonHandler {
+	
+	private Processor processor;
 
 	public ArrayList<ProductionEntry> readFile(String fileName)
 			throws FileNotFoundException, IOException, DeserializationException {
@@ -44,10 +47,10 @@ public class JsonHandler {
 					dailyLitersPerCow = entryObj.getInteger("produccion_por_vaca_litros_dia");
 					numberOfCows = entryObj.getInteger("vacas_para_orde_o");
 					dailyLiters = entryObj.getInteger("total_litros_d_a");
-					ProductionEntry employee = new ProductionEntry(year, town, Utilities.parseFarmingType(farmingType),
+					ProductionEntry employee = new ProductionEntry(processor.getGenerateID(),year, town, Utilities.parseFarmingType(farmingType),
 							dailyLitersPerCow, numberOfCows, dailyLiters);
-					System.out.println(year + "\n" + town + "\n" + farmingType + "\n" + dailyLitersPerCow + "\n"
-							+ numberOfCows + "\n" + dailyLiters + "\n");
+//					System.out.println(year + "\n" + town + "\n" + farmingType + "\n" + dailyLitersPerCow + "\n"
+//							+ numberOfCows + "\n" + dailyLiters + "\n");
 					personList.add(employee);
 				}
 			} catch (NullPointerException e) {

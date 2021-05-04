@@ -6,6 +6,8 @@ import java.util.ArrayList;
 import javax.swing.BoxLayout;
 import javax.swing.JPanel;
 
+import exceptions.NotSelectionRow;
+
 public class JPMainBodyApp extends JPanel {
 
 	private static final long serialVersionUID = 1L;
@@ -44,11 +46,19 @@ public class JPMainBodyApp extends JPanel {
 	public void refreshTable(ArrayList<Object[]> vector) {
 		tableInformation.refresh(vector);
 	}
+	
+	public void addElementToTable(Object[] vectorElement) {
+		tableInformation.addElementToTable(vectorElement);
+	}
 
 	public void cleansRowTable() {
 		tableInformation.cleanRowsTable();
 	}
 
+	
+	public int getRowTable() throws NotSelectionRow {
+		return tableInformation.getRowSelect();
+	}
 	public void setIdentifiersPrincipal() {
 		tableInformation.setIdetifiersPrincipal();
 	}

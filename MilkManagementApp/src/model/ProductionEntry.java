@@ -7,9 +7,11 @@ public class ProductionEntry {
 	private int dailyLitersPerCow;
 	private int numberOfCows;
 	private int dailyLiters;
+	private short ID;
 	
-	public ProductionEntry(int year, String town, FarmingType farmingType, int dailyLitersPerCow, int numberOfCows,
+	public ProductionEntry(short id, int year, String town, FarmingType farmingType, int dailyLitersPerCow, int numberOfCows,
 			int dailyLiters) {
+		this.ID = id;
 		this.year = year;
 		this.town = town;
 		this.farmingType = farmingType;
@@ -22,6 +24,10 @@ public class ProductionEntry {
 		this.year = year;
 		this.town = town;
 		this.farmingType = farmingType;
+	}
+	
+	 public short getID() {
+		return ID;
 	}
 
 	public int getYear() {
@@ -73,6 +79,6 @@ public class ProductionEntry {
 	}
 
 	public Object[] toObjectVector() {
-		return new Object[] {year, town, farmingType.getType(), dailyLitersPerCow, numberOfCows, dailyLiters};
+		return new Object[] {ID, year, town, farmingType.getType(), dailyLitersPerCow, numberOfCows, dailyLiters};
 	}
 }

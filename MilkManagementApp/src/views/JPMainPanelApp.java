@@ -6,6 +6,7 @@ import java.util.ArrayList;
 
 import javax.swing.JPanel;
 
+import exceptions.NotSelectionRow;
 import views.body.JPMainBodyApp;
 import views.footer.JPMainFooterApp;
 import views.header.JPMainHeaderApp;
@@ -40,8 +41,17 @@ public class JPMainPanelApp extends JPanel {
 		this.add(jpMainFooterApp, BorderLayout.SOUTH);
 	}
 	
+	public void addElementToTable(Object[] vectorElement) {
+		jpMainBodyApp.addElementToTable(vectorElement);
+	}
+
+
 	public void refreshTable(ArrayList<Object[]> vector) {
 		jpMainBodyApp.refreshTable(vector);
+	}
+	
+	public int getRowTable() throws NotSelectionRow {
+		return jpMainBodyApp.getRowTable();
 	}
 
 	public void cleansRowTable() {

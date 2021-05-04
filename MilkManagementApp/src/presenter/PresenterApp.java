@@ -3,14 +3,16 @@ package presenter;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.IOException;
+import java.time.LocalDate;
 import java.util.ArrayList;
-import java.util.Arrays;
-
 import javax.swing.JOptionPane;
 
 import org.json.simple.DeserializationException;
 
 import constants.Commands;
+import exceptions.FieldsNullException;
+import exceptions.IdNotFoundException;
+import exceptions.NotSelectionRow;
 import persistence.HandlerLanguage;
 import persistence.JsonHandler;
 import utilities.Utilities;
@@ -26,6 +28,9 @@ public class PresenterApp implements ActionListener {
 	private static final String FILE_ENGLISH_PATH = "resources/languages/languageUS.properties";
 	private static final String FILE_SPANISH_PATH = "resources/languages/languageES.properties";
 	private static final String FILE_NAME_CONFIG_PATH = "resources/config/config.init";
+	public static final String JD_MESSAGE_ERROR = "Message_Error";
+	public static final String MESSAGE_DELETE = "Message_Delete";
+	private static final String TEXT_DELETE_USER = "Delete_User";
 
 	public PresenterApp() {
 		loadConfiguration();
@@ -40,14 +45,15 @@ public class PresenterApp implements ActionListener {
 	}
 
 	private void StartApp() {
-		
+
 		try {
 //			new JsonHandler().readFile("resources/input/data.json");
 			new JsonHandler();
-			
-			ArrayList<String> listProductionEntry = JsonHandler.readFileFromUrl("https://www.datos.gov.co/resource/3urw-7985.json");
+
+			ArrayList<String> listProductionEntry = JsonHandler
+					.readFileFromUrl("https://www.datos.gov.co/resource/3urw-7985.json");
 			manageCreateMunicipality(listProductionEntry);
-			//JsonHandler.readFileFromUrl("https://www.datos.gov.co/resource/3urw-7985.json");
+			// JsonHandler.readFileFromUrl("https://www.datos.gov.co/resource/3urw-7985.json");
 		} catch (IOException | DeserializationException e) {
 			e.printStackTrace();
 		}
@@ -59,19 +65,26 @@ public class PresenterApp implements ActionListener {
 		case C_SHOW_PANEL_NEW:
 			manageshowNewPanel();
 			break;
-
 		case C_ADD:
-
+			manageAddProductionEntry();
 			break;
 		case C_EDIT:
+			manageEditMunicipality();
 			break;
 		case C_EXIT:
+			manageExitApp();
+			break;
+		case C_CANCEL:
+			manageCancel();
+			break;
+		case C_DELETE:
+			manageDelete();
 			break;
 		case C_SPANISH:
 			break;
-
 		case C_ENGLISH:
 			break;
+
 		default:
 			break;
 		}
@@ -95,30 +108,79 @@ public class PresenterApp implements ActionListener {
 		display.refreshTable(processor.generateFullList());
 	}
 
-	private void manageCreateMunicipality(ArrayList<String> dataCyclistList) {
-		for (String data : dataCyclistList) {
-			String[] aux = Utilities.SplitLine(data);
-			
-			 try {
-				 processor.addEntry(Processor.createProductionEntry(Integer.parseInt(aux[1]), aux[2], Utilities.parseFarmingType(aux[3]),
-							Integer.parseInt(aux[4]), Integer.parseInt(aux[5]), Integer.parseInt(aux[6])));
-				
-			} catch (Exception e) {
-			e.getMessage();
-			}
-			 
-		
-//
-//			productionEntry = new ProductionEntry(Integer.parseInt(aux[1]), aux[2], Utilities.parseFarmingType(aux[3]),
-//					Integer.parseInt(aux[4]), Integer.parseInt(aux[5]), Integer.parseInt(aux[6]));
-//			 processor.addEntry(productionEntry);
-			 
-			 
-			 
-//				managerCyclingRace.addCyclist(ManagerCyclingRace.createCyclist((short) Utilities.parseShortToString(aux[0]), aux[1], aux[2],aux[3],
-//						Utilities.validateAddCyclingAge(aux[4]), Utilities.getGender(aux[5]),
-//						Utilities.getTeam(aux[6]), Utilities.getTime(aux[7])));
+	private void manageAddProductionEntry() {
+		display.refreshTable(processor.toMatrixVector());
+		ProductionEntry entryAux;
+		try {
+			entryAux = display.createProductionEntry();
+			processor.addEntry(entryAux);
+			display.addElementToTable(entryAux.toObjectVector());
+			display.notShowDialog();
+		} catch (FieldsNullException e3) {
+
+			JOptionPane.showMessageDialog(display, Utilities.generateProperty(e3.getMessage()),
+					Utilities.generateProperty(JD_MESSAGE_ERROR), JOptionPane.WARNING_MESSAGE);
 		}
 	}
 
+	private void manageCancel() {
+		display.notShowDialog();
+
+	}
+
+	private void manageEditMunicipality() {
+		this.display.showDialogEditUser();
+		Object[] datumsUser = display.editMunicipaity();
+		try {
+			int datumsTable = display.getRowTable();
+			ProductionEntry entryAux = processor.searchProductionEntryByID(datumsTable);
+			entryAux.setDailyLitersPerCow(Integer.parseInt((String) datumsUser[0]));
+			entryAux.setDailyLiters(Integer.parseInt((String) datumsUser[1]));
+			entryAux.setNumberOfCows(Integer.parseInt((String) datumsUser[2]));
+			display.cleansRowTable();
+			display.refreshTable(processor.toMatrixVector());
+		} catch (NotSelectionRow e2) {
+			JOptionPane.showMessageDialog(display, Utilities.generateProperty(e2.getMessage()),
+					Utilities.generateProperty(JD_MESSAGE_ERROR), JOptionPane.WARNING_MESSAGE);
+		} catch (IdNotFoundException e1) {
+			JOptionPane.showMessageDialog(display, e1.getMessage());
+		}
+	}
+
+	private void manageDelete() {
+		try {
+			int datasAux = display.getRowTable();
+			int option = JOptionPane.showConfirmDialog(display, Utilities.generateProperty(MESSAGE_DELETE),
+					Utilities.generateProperty(TEXT_DELETE_USER), JOptionPane.YES_NO_OPTION,
+					JOptionPane.WARNING_MESSAGE);
+			if (option == JOptionPane.YES_OPTION) {
+				processor.deleteEntry(processor.searchPositionNumber(datasAux));
+				display.cleansRowTable();
+				display.refreshTable(processor.toMatrixVector());
+			}
+		} catch (NotSelectionRow e1) {
+			JOptionPane.showMessageDialog(display, Utilities.generateProperty(e1.getMessage()),
+					Utilities.generateProperty(JD_MESSAGE_ERROR), JOptionPane.WARNING_MESSAGE);
+		} catch (IdNotFoundException e2) {
+			JOptionPane.showMessageDialog(display, e2.getMessage());
+		}
+	}
+
+	private void manageExitApp() {
+		display.setVisible(false);
+		display.dispose();
+	}
+
+	private void manageCreateMunicipality(ArrayList<String> dataCyclistList) {
+		for (String data : dataCyclistList) {
+			String[] aux = Utilities.SplitLine(data);
+			try {
+				processor.addEntry(Processor.createProductionEntry(processor.getGenerateID(), Integer.parseInt(aux[0]),
+						aux[1], Utilities.parseFarmingType(aux[2]), Integer.parseInt(aux[3]), Integer.parseInt(aux[4]),
+						Integer.parseInt(aux[5])));
+			} catch (Exception e) {
+				e.getMessage();
+			}
+		}
+	}
 }

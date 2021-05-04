@@ -10,11 +10,12 @@ import javax.swing.border.EmptyBorder;
 
 import constants.ConstantsUI;
 import constants.PathConstants;
+import persistence.HandlerLanguage;
 import views.models.JPMainPaintImageBackground;
 
 public class JPMainBanner extends JPanel {
 
-	private static final String TEXT_SLOGAN = "<html><body>Asociación nacional <br> de productores de leche</body></html>";
+	private static final String TEXT_SLOGAN = "Production_Milk";
 	private static final long serialVersionUID = 1L;
 	private JLabel lblTextBanner;
 	private JPMainPaintImageBackground imageBackground;
@@ -44,7 +45,7 @@ public class JPMainBanner extends JPanel {
 
 	private JLabel updatePropertiesBannerTxt(JLabel lblInt, String text) {
 		lblInt = new JLabel();
-		lblInt.setText(text);
+		lblInt.setText(HandlerLanguage.languageProperties.getProperty(text));
 		lblInt.setForeground(Color.BLACK);
 		lblInt.setBorder(new EmptyBorder(150, 90, 200, 900));
 		lblInt.setFont(ConstantsUI.FONT_ROBOTO);

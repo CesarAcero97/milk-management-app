@@ -1,9 +1,9 @@
 package model;
 
-import java.time.LocalDate;
-import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.HashMap;
+
+import exceptions.IdNotFoundException;
 
 public class Processor {
 	private ArrayList<ProductionEntry> entryList;
@@ -20,8 +20,12 @@ public class Processor {
 
 	}
 
-	public void deleteEntry(ProductionEntry entry) {
-		entryList.remove(entry);
+	public ArrayList<ProductionEntry> getEntryList() {
+		return entryList;
+	}
+
+	public void deleteEntry(int position) {
+		entryList.remove(position);
 	}
 
 	public ArrayList<Object[]> generateFullList() {
@@ -32,12 +36,45 @@ public class Processor {
 		return fullList;
 	}
 
-	public static ProductionEntry createProductionEntry(int year, String town, FarmingType farmingType,
+	public static ProductionEntry createProductionEntry(short ID, int year, String town, FarmingType farmingType,
 			int dailyLitersPerCow, int numberOfCows, int dailyLiters) {
 
-		ProductionEntry productionEntryAux = new ProductionEntry(year, town, farmingType, dailyLitersPerCow,
+		ProductionEntry productionEntryAux = new ProductionEntry(ID, year, town, farmingType, dailyLitersPerCow,
 				numberOfCows, dailyLiters);
 		return productionEntryAux;
+	}
+
+	public short getGenerateID() {
+		return (short) (getEntryList().size() + 1);
+	}
+
+	public int searchPositionNumber(int ID) throws IdNotFoundException {
+		for (int i = 0; i < entryList.size(); i++) {
+			ProductionEntry entry = entryList.get(i);
+			if (entry.getID() == ID) {
+				return i;
+			}
+
+		}
+		throw new IdNotFoundException();
+	}
+
+	public ArrayList<Object[]> toMatrixVector() {
+		ArrayList<Object[]> datasMatrix = new ArrayList<Object[]>();
+		for (ProductionEntry production : entryList) {
+			datasMatrix.add(production.toObjectVector());
+		}
+		return datasMatrix;
+	}
+
+	public ProductionEntry searchProductionEntryByID(int ID) throws IdNotFoundException {
+		for (int i = 0; i < entryList.size(); i++) {
+			ProductionEntry entry = entryList.get(i);
+			if (entry.getID() == ID) {
+				return entry;
+			}
+		}
+		throw new IdNotFoundException();
 	}
 
 	public HashMap<String, Integer> generateReport1(int year) {

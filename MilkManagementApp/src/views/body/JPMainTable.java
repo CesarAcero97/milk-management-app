@@ -104,7 +104,7 @@ public class JPMainTable extends JPanel {
 			jtElements.getColumnModel().getColumn(i).setCellRenderer(centerModel);
 		}
 	}
-	
+
 	public void addElementToTable(Object[] vector) {
 		dtmElements.addRow(vector);
 		centertextInCell();
