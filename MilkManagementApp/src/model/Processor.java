@@ -35,6 +35,14 @@ public class Processor {
 		}
 		return fullList;
 	}
+	
+	public ArrayList<String> generateOutputList() {
+		ArrayList<String> fullList = new ArrayList<String>();
+		for (ProductionEntry entry : entryList) {
+			fullList.add(entry.toString());
+		}
+		return fullList;
+	}
 
 	public static ProductionEntry createProductionEntry(short ID, int year, String town, FarmingType farmingType,
 			int dailyLitersPerCow, int numberOfCows, int dailyLiters) {

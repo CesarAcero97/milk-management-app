@@ -81,4 +81,9 @@ public class ProductionEntry {
 	public Object[] toObjectVector() {
 		return new Object[] {ID, year, town, farmingType.getType(), dailyLitersPerCow, numberOfCows, dailyLiters};
 	}
+	
+	@Override
+	public String toString() {
+		return "[" + ID  + "," + year  + "," + town  + "," + farmingType.getType()  + "," + dailyLitersPerCow  + "," + numberOfCows  + "," + dailyLiters + "]";
+	}
 }

@@ -38,6 +38,6 @@ public class TextManager {
 			bw.write(line);
 			bw.newLine();
 		}
-		bw.flush();
+		bw.close();
 	}
 }
