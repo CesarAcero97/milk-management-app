@@ -58,4 +58,11 @@ public class JPMainFunction extends JToolBar {
 		this.add(bntDelete);
 		this.add(bntRefresh);
 	}
+
+	public void changeLanguage() {
+		bntAdd.setText(Utilities.generateProperty(TEXT_ADD));
+		bntEdit.setText(Utilities.generateProperty(TEXT_EDIT));
+		bntDelete.setText(Utilities.generateProperty(TEXT_DELETE));
+		bntRefresh.setText(Utilities.generateProperty(TEXT_REFRESH));
+	}
 }

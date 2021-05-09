@@ -52,4 +52,8 @@ public class JPMainBanner extends JPanel {
 		lblInt.setAlignmentX(Component.CENTER_ALIGNMENT);
 		return lblInt;
 	}
+	
+	public void changeLenguage() {
+		 lblTextBanner.setText(HandlerLanguage.languageProperties.getProperty(TEXT_SLOGAN));
+	}
 }

@@ -32,7 +32,7 @@ public class JFMainWindowApp extends JFrame {
 		this.setTitle(TEXT_TITTLE_MAIN_WINDOW);
 		this.setExtendedState(MAXIMIZED_BOTH);
 		this.setIconImage(new ImageIcon(getClass().getResource(PathConstants.PATH_ICON_WINDOW_FRAME)).getImage());
-		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
+		this.setDefaultCloseOperation(EXIT_ON_CLOSE);	
 		this.setResizable(false);
 	}
 
@@ -87,5 +87,16 @@ public class JFMainWindowApp extends JFrame {
 
 	public void refreshTable(ArrayList<Object[]> vector) {
 		jpMainPanelApp.refreshTable(vector);
+	}
+
+	public void changeLanguage() {
+//		jpMainPanelApp.changeLanguage();
+//		dialogAddCyclist.changeLanguage();
+//		dialogEditCyclist.changeLanguage();
+//		dialogAverageTimes.changeLanguage();
+		dialogAddMunicipality.changeLanguage();
+		dialogEditMunicipality.changeLanguage();
+		jpMainPanelApp.changeLanguage();
+		
 	}
 }

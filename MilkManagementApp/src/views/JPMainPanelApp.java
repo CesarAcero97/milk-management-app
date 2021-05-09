@@ -61,4 +61,9 @@ public class JPMainPanelApp extends JPanel {
 	public void setIdentifiersPrincipal() {
 		jpMainBodyApp.setIdentifiersPrincipal();
 	}
+	
+	public void changeLanguage() {
+		jpMainHeaderApp.changeLanguage();
+		jpMainBodyApp.changeLanguage();
+	}
 }

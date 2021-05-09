@@ -162,4 +162,15 @@ public class JDMainAddMunicipality extends JDialog {
 					Integer.parseInt((String) jspTotalLiters.getValue()));
 		}
 	}
+
+	public void changeLanguage() {
+		jspYear.setBorder(BorderFactory.createTitledBorder(HandlerLanguage.languageProperties.getProperty(TEXT_YEAR_STUDY)));
+		jtfNameMunicipality.setBorder(BorderFactory.createTitledBorder(HandlerLanguage.languageProperties.getProperty(TEXT_NAME_MUNICIPALITY)));
+		jcbTypeExplotation.setBorder(BorderFactory.createTitledBorder(HandlerLanguage.languageProperties.getProperty((TEXT_TYPE_EXPLOTATION))));
+		jspNumberLiters.setBorder(BorderFactory.createTitledBorder(HandlerLanguage.languageProperties.getProperty(TEXT_NUMBER_LITERS)));
+		jspNumberCows.setBorder(BorderFactory.createTitledBorder(HandlerLanguage.languageProperties.getProperty(TEXT_NUMBER_COWS)));
+		jspTotalLiters.setBorder(BorderFactory.createTitledBorder(HandlerLanguage.languageProperties.getProperty(TETX_TOTAL_LITERS)));
+		bntAdd.setText(HandlerLanguage.languageProperties.getProperty(TEXT_ADD_BUTTON));
+		bntCancel.setText(HandlerLanguage.languageProperties.getProperty(TEXT_CANCEL_BUTTON));
+	}
 }

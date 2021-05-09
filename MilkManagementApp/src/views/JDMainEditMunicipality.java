@@ -115,6 +115,13 @@ public class JDMainEditMunicipality extends JDialog {
 	public Object[] editMunicipality() {
 		setVisible(false);
 		return new Object[] { jspNumberLiters.getValue(), jspNumberCows.getValue(), jspTotalLiters.getValue() };
+	}
 
+	public void changeLanguage() {
+		jspNumberLiters.setBorder(BorderFactory.createTitledBorder(HandlerLanguage.languageProperties.getProperty(TEXT_NUMBER_LITERS)));
+		jspNumberCows.setBorder(BorderFactory.createTitledBorder(HandlerLanguage.languageProperties.getProperty(TEXT_NUMBER_COWS)));
+		jspTotalLiters.setBorder(BorderFactory.createTitledBorder(HandlerLanguage.languageProperties.getProperty(TETX_TOTAL_LITERS)));
+		bntEdit.setText(HandlerLanguage.languageProperties.getProperty(TEXT_EDIT_BUTTON));
+		bntCancel.setText(HandlerLanguage.languageProperties.getProperty(TEXT_CANCEL_BUTTON));
 	}
 }

@@ -62,4 +62,10 @@ public class JPMainBodyApp extends JPanel {
 	public void setIdentifiersPrincipal() {
 		tableInformation.setIdetifiersPrincipal();
 	}
+	
+	public void changeLanguage() {
+		bannerFirstPanel.changeLenguage();
+		tableInformation.changeLanguage();
+		mainFunction.changeLanguage();
+	}
 }

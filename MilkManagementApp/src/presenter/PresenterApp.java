@@ -28,6 +28,7 @@ public class PresenterApp implements ActionListener {
 	private static final String FILE_ENGLISH_PATH = "resources/languages/languageUS.properties";
 	private static final String FILE_SPANISH_PATH = "resources/languages/languageES.properties";
 	private static final String FILE_NAME_CONFIG_PATH = "resources/config/config.init";
+	private static final String FILE_OUT = "resources/output/milkInfo.txt";
 	public static final String JD_MESSAGE_ERROR = "Message_Error";
 	public static final String MESSAGE_DELETE = "Message_Delete";
 	private static final String TEXT_DELETE_USER = "Delete_User";
@@ -36,6 +37,8 @@ public class PresenterApp implements ActionListener {
 		loadConfiguration();
 		initApp();
 		StartApp();
+		processor.generateReportOne(2018);
+		processor.generateReportTwo("SORACA");
 		display.refreshTable(processor.generateFullList());
 	}
 
@@ -81,8 +84,10 @@ public class PresenterApp implements ActionListener {
 			manageDelete();
 			break;
 		case C_SPANISH:
+			manageChangeLanguageES();
 			break;
 		case C_ENGLISH:
+			manageChangeLanguageUS();
 			break;
 
 		default:
@@ -97,6 +102,56 @@ public class PresenterApp implements ActionListener {
 		try {
 			config.loadLanguage();
 		} catch (IOException e) {
+			JOptionPane.showMessageDialog(display, e.getMessage());
+		}
+	}
+	
+	private void manageChangeLanguageES() {
+		try {
+			changeToSpanish();
+		} catch (Exception e) {
+			JOptionPane.showMessageDialog(display, e.getMessage());
+		}
+		manageChangeLanguage();
+	}
+	
+	private void manageChangeLanguageUS() {
+		try {
+			changeToEnglish();
+		} catch (Exception e) {
+			JOptionPane.showMessageDialog(display, e.getMessage());
+		}
+		manageChangeLanguage();
+	}
+	
+	public void loadLanguage() {
+		try {
+			config.loadLanguage();
+		} catch (Exception e) {
+			JOptionPane.showMessageDialog(display, e.getMessage());
+		}
+	}
+	
+	private void manageChangeLanguage() {
+		display.changeLanguage();
+	}
+	
+	public void changeToSpanish() {
+		HandlerLanguage.language = FILE_SPANISH_PATH;
+		saveConfig();
+		loadLanguage();
+	}
+	
+	public void changeToEnglish() {
+		HandlerLanguage.language = FILE_ENGLISH_PATH;
+		saveConfig();
+		loadLanguage();
+	}
+	
+	public void saveConfig() {
+		try {
+			new HandlerLanguage( FILE_NAME_CONFIG_PATH).savelanguage();
+		} catch (Exception e) {
 			JOptionPane.showMessageDialog(display, e.getMessage());
 		}
 	}

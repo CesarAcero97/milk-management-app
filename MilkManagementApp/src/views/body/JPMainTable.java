@@ -172,4 +172,9 @@ public class JPMainTable extends JPanel {
 			addElementToTable(objects);
 		}
 	}
+	
+	public void changeLanguage() {
+		setIdentifiers(Utilities.changeLanguageHeaders());
+		centertextInCell();
+	}
 }
