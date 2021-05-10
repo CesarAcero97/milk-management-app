@@ -176,5 +176,58 @@ public class Processor {
 		}
 		return gainsPerTypeFarming;
 	}
-
+	
+	public HashMap<String, Integer> generateReportSeven(FarmingType farmingType) {
+		// Grado de producción tipo de explotación Lechería tradicional, es decir
+		// infomración de municipios pertenecientes a este tipo de explotación
+		HashMap<String, Integer> gainsPerTypeFarming = new HashMap<String, Integer>();
+		for (ProductionEntry productionEntry : entryList) {
+			if (productionEntry.getFarmingType().equals(farmingType)) {
+				gainsPerTypeFarming.put(productionEntry.getTown(), productionEntry.getDailyLiters());
+			}
+		}
+		return gainsPerTypeFarming;
+	}
+	
+	public HashMap<String, Integer> generateReportEight() {
+		//Número de vacas de ordeño de cada uno de los municipios
+		HashMap<String, Integer> cowsPerMunicipality = new HashMap<String, Integer>();
+		int townTotal = 0;
+		for (ProductionEntry productionEntry : entryList) {
+			for (int i = 0; i < entryList.size(); i++) {
+				if (productionEntry.getTown().equals(entryList.get(i).getTown())) {
+					townTotal += productionEntry.getNumberOfCows();
+					cowsPerMunicipality.put(productionEntry.getTown(), townTotal);
+				}
+			}
+		}
+		return cowsPerMunicipality;
+	}
+	
+	public HashMap<String, Integer> generateReportNine() {
+		// Cantidad de litros de fabricación de lácteos de cada municipio
+		HashMap<String, Integer> litersPerMunicipality = new HashMap<String, Integer>();
+		int townTotal = 0;
+		for (ProductionEntry productionEntry : entryList) {
+			for (int i = 0; i < entryList.size(); i++) {
+				if (productionEntry.getTown().equals(entryList.get(i).getTown())) {
+					townTotal += productionEntry.getDailyLiters();
+					litersPerMunicipality.put(productionEntry.getTown(), townTotal);
+				}
+			}
+		}
+		return litersPerMunicipality;
+	}
+	
+	public HashMap<String, Integer> generateReportTen(String town) {
+		// Suma total de litros en el municipio
+		HashMap<String, Integer> totalLitersInDepartment = new HashMap<String, Integer>();
+		for (ProductionEntry productionEntry : entryList) {
+			if (productionEntry.getTown().equals(town)) {
+				totalLitersInDepartment.put(productionEntry.getTown(), productionEntry.getDailyLiters());
+			}
+		}
+		return totalLitersInDepartment;
+	}
+	
 }
